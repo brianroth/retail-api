@@ -1,0 +1,4 @@
+name,email,password,active
+Example User,user@example.com,password,true
+Example User,user1@example.com,password,true
+Example User,user2@example.com,password,true

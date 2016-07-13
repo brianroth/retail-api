@@ -1,0 +1,381 @@
+name,id,address1,address2,state,city,postal_code
+Boca Raton,806,1400 Glades Road,Ste 110,FL,Boca Raton,33486
+Orlando,817,8003 Turkey Lake Road,,FL,Orlando,32836
+Biscayne,805,21105 Biscayne Blvd,,FL,Aventura,33180
+Coral Gables,811,6701 Red Road,,FL,Coral Gables,33146
+Coral Springs,8004,810 University Drive,,FL,Coral Springs,33071
+Carrollwood,822,3802 Northdale Blvd.,,FL,Tampa,33624
+Ft. Lauderdale,807,2000 North Federal Highway,,FL,Fort Lauderdale,33305
+Jacksonville,820,10601 San Jose Blvd.,,FL,Jacksonville,32257
+Naples,818,9101 Strada Place,,FL,Naples,34108
+Pinecrest,812,11701 S Dixie Hwy,,FL,Miami,33156
+Pembroke Pines,821,14956 Pines Blvd,,FL,Pembroke Pines,33027
+Palm Beach Gardens,810,11701 Lake Victoria Gardens Drive,,FL,Palm Bch Gardens,33410
+Plantation,801,7720 Peters Road,,FL,Plantation,33324
+Sarasota,809,1451 First Street,,FL,Sarasota,34236
+South Beach,816,1020 Alton Rd,,FL,Miami Beach,33139
+San Souci,823,12150 Biscayne Blvd,,FL,North Miami,33181
+Tallahassee,824,1817 Thomasville Road,,FL,Tallahassee,32303
+Tampa,815,1548 N Dale Mabry Hwy,,FL,Tampa,33607
+Wellington,819,2635 State Road 7,,FL,Wellington,33467
+Winter Park,808,1989 Aloma Avenue,,FL,Winter Park,32792
+Georgetown,5015,2323 Wisconsin Avenue N.W,,DC,Washington,20008
+Foggy Bottom,73,2201 Eye Street NW,,DC,Washington,20037
+P Street,48,1440 P Street NW,,DC,Washington,20005
+Tenley Town,24,4530 40th Street NW,,DC,Washington,20016
+Lexington Green,60,161 Lexington Green Cir Ste A2,,KY,Lexington,40503
+Louisville,54,4944 Shelbyville Rd,,KY,Louisville,40207
+Annapolis,67,200 Harker Place Suite 100,,MD,Annapolis,21401
+Bethesda,2,5269 River Road,,MD,Bethesda,20816
+Chevy Chase,69,Wisconsin & Western,,MD,Chevy Chase,20815
+Harbor East,49,1001 Fleet Street,Suite A,MD,Baltimore,21202
+Kentlands,52,316 Kentlands Blvd.,,MD,Gaithersburg,20878
+Mt. Washington,26,1330 Smith Avenue,,MD,Baltimore,21209
+White Flint,70,Rockville Pike & Exec.,,MD,Rockville,20852
+Silver Spring,47,833 Wayne Ave.,,MD,Silver Spring,20910
+Cherry Hill,78,1558 North Kings Highway,,NJ,Cherry Hill,8304
+Marlton,39,940 Route 73 North,,NJ,Marlton,8053
+Princeton,55,3495 US Route 1 South,,NJ,Princeton,8540
+Chagrin,62,27249 Chagrin Blvd,,OH,Beachwood,44122
+Cincinnati,63,2693 Edmonson Rd,,OH,Cincinnati,45209
+Cedar Center,59,13998 Cedar Rd,,OH,University Heights,44118
+Dublin,56,3670 W. Dublin-Granville Road,,OH,Dublin,43235
+Ohio State - Relo,77,1555 W. Lane Ave,,OH,Columbus,43221
+Mason,64,5805 Deerfield Blvd,,OH,Mason,45040
+Glen Mills,74,475 Wilmington West Chester Pike,,PA,Concordville,19342
+Devon,9,821 Lancaster Avenue,,PA,Wayne,19087
+Jenkintown,40,1575 Fairway Rd.,,PA,Rydal,19001
+North Wales,5006,1210 Bethlehem Pike,,PA,North Wales,19002
+Philadelphia,38,2001 Pennsylvania Avenue,,PA,Philadelphia,19130
+Plymouth Meeting,68,Plymouth Meeting Mall,,PA,Plymouth Meeting,19462
+Pittsburgh,53,5880 Centre Avenue,,PA,Pittsburgh,15206
+South Street,41,929 South Street,,PA,Philadelphia,19147
+Wexford,75,10576 Perry Highway,,PA,Wexford,15090
+Wynnewood,17,339 East Lancaster Avenue,,PA,Wynnewood,19003
+Arlington,28,2700 Wilson Blvd,,VA,Arlington,22201
+Charlottesville,71,1797 Hydraulic Road,,VA,Charlottesville,22901
+Fair Lakes,58,4501 Market Commons Drive,,VA,Fairfax,22033
+Old Town,57,1700 Duke Street,,VA,Alexandria,22314
+Reston,25,11660 Plaza America Drive,,VA,Reston,20190
+Short Pump,66,11173 West Broad Street,,VA,Richmond,23233
+Springfield,5012,8402 Old Keene Mill Road,,VA,Springfield,22152
+Tysons,3,7511 Leesburg Pike,,VA,Falls Church,22043
+Virginia Beach,76,1800 Laskin Road,,VA,Virginia Beach,23454
+Vienna,37,143 Maple Avenue East,,VA,Vienna,22180
+West Des Moines,571,4100 University Avenue,,IA,Des Moines,50266
+Sauganash,552,6020 N. Cicero Avenue,,IL,Chicago,60646
+Deerfield,440,760 Waukegan Road,,IL,Deerfield,60015
+Evanston,43,1640 Chicago Avenue,,IL,Evanston,60201
+Chicago Ave,558,1111 Chicago Ave,,IL,Evanston,60202
+Gold Coast,517,30 West Huron,,IL,Chicago,60610
+Halsted,555,3640 N. Halsted,,IL,Chicago,60613
+Hinsdale,557,500 E Ogden Ave,,IL,Hinsdale,60521
+Kingsbury Sq.,566,1500 N. Kingsbury St,,IL,Chicago,60622
+Kildeer,574,20281 N. Rand Road,,IL,Kildeer,60074
+Lakeview,39,3300 N. Ashland,,IL,Chicago,60657
+Northbrook,554,840 Willow Rd.,,IL,Northbrook,60062
+Naperville,564,75th Street & Rte 59,,IL,Naperville,60540
+Orland Park,573,15260 S LaGrange Rd,,IL,Orland Park,60462
+Park Ridge,580,225 W. Toughy Ave,,IL,Park Ridge,60068
+River Forest,4003,7245 Lake St.,,IL,River Forest,60305
+Schaumburg,567,E. Higgins Rd. at State Hwy 53,,IL,Schaumburg,60173
+SouthLoop,4029,1101 S Canal Street,,IL,Chicago,60607
+Willowbrook,500,201 W. 63rd Street,,IL,Willowbrook,60527
+Wheaton,42,151 Rice Lake Square,,IL,Wheaton,60187
+Carmel,561,14598 Clay Terrace Blvd,,IN,Carmel,46032
+Eighty-Sixth St,559,1300 E 86th St,,IN,Indianapolis,46240
+South Bend,575,4230 Grape Road,,IN,Mishawaka,46545
+Ann Arbor,547,3135 Washtenaw Ave,,MI,Ann Arbor,48104
+Cranbrook,565,990 Eisenhower Parkway,,MI,Ann Arbor,48103
+Detroit,576,115 Mack Ave,,MI,Detroit,48202
+Rochester Hills,4037,2918 Walton Blvd.,,MI,Rochester Hills,48307
+Somerset,512,2880 West Maple,,MI,Troy,48084
+West Bloomfield,19,7350 Orchard lake Road,,MI,West Bloomfield,48322
+Lake Calhoun,518,3060 Excelsior Blvd.,,MN,Minneapolis,55416
+Edina,570,7401 France Ave South,,MN,Edina,55435
+Maple Grove,577,12201 Elm Creek Blvd N,,MN,Maple Grove,55369
+Hennepin - Minneapolis,578,222 Hennepin Avenue,,MN,Minneapolis,55401
+Minnetonka,569,1001 Plymouth Road,,MN,Minnetonka,55305
+St. Paul,538,30 South Fairview,,MN,Saint Paul,55105
+Galleria,441,1601 S. Brentwood Blvd,,MO,Saint Louis,63144
+Town and Country,563,1160 Town and Country Crossing,,MO,Saint Louis,63011
+Lincoln,579,6055 O Street,,NE,Lincoln,68510
+Regency,550,10020 Regency Circle,,NE,Regency-Omaha,68114
+Unionville,572,3997 Hwy #7,,ON,Markham,L3R 5M6
+Oakville,548,301 Cornwall Road,,ON,Oakville,L6J 7Z5
+Square One,568,155 Square One Drive,,ON,Mississauga,L5B 0E2
+Yorkville,549,87 Avenue Road,,ON,Toronto,M5R 3R9
+Madison,4015,3313 University Avenue,,WI,Madison,53705
+Milwaukee,551,2305 N. Prospect Avenue,,WI,Milwaukee,53211
+Bishops Corner,239,340 N Main St & Hwy 44,,CT,West Hartford,6117
+Glastonbury,240,55 Welles Street,,CT,Glastonbury,6033
+W Hartford,234,50 Raymond Road,,CT,West Hartford,6107
+Arlington,247,808 Massachusetts Ave,,MA,Arlington,2476
+Andover,238,40 Railroad St,,MA,Andover,1810
+Bedford,211,170 Great Rd,,MA,Bedford,1730
+Brookline,245,1028 Beacon St,,MA,Brookline,2466
+Bellingham,2214,255 Hartford Ave.,,MA,Bellingham,2019
+Brighton,7004,15 Washington St,,MA,Brighton,2135
+Cambridge,7003,115 Prospect St,,MA,Cambridge,2139
+Charleston,248,50 Austin St,,MA,Charlestown,2129
+Charles River,233,181 Cambridge Street,,MA,Boston,2114
+Dedham,242,950 Providence Highway,,MA,Dedham,2026
+Fresh Pond,7005,200 Alewife Brook Parkway,,MA,Cambridge,2138
+Framingham,225,575 Worcester Rd. (Rte. 9),,MA,Framingham,1701
+Hadley,205,327 Russell St,,MA,Hadley,1035
+Hingham,229,94 Derby Street,,MA,Hingham,2043
+Hyannis,252,990 Iyannough Road,,MA,Hyannis,2601
+Jamaica Plain,244,415 Centre St,,MA,Boston,2130
+Lynnfield,251,100 Market Street,,MA,Lynnfield,1940
+Medford,241,2151 Mystic Valley Pkwy,,MA,Medford,2155
+Melrose,249,880 Main St,,MA,Melrose,2176
+Newton,7008,916 Walnut Street,,MA,Newton,2459
+Newtonville,212,647 Washington St.,,MA,Newtonville,2458
+River Street,216,340 River Street,,MA,Cambridge,2139
+Somerville,246,45 Beacon Street,,MA,Somerville,2143
+Swampscott,231,331 Paradise Road,,MA,Swampscott,1907
+South Weymouth,250,35 Pleasant Street,,MA,South Weymouth,2190
+Symphony,7007,15 Westland Avenue,,MA,Boston,2115
+Wayland,213,317 Boston Post Road,,MA,Wayland,1778
+Wellesley Relo,243,442 Washington Street,,MA,Wellsley,2482
+Woburn,235,400 Cambridge Road,,MA,Woburn,1801
+Portland Bayside,236,2 Somerset Street,,ME,Portland,4101
+Cranston,237,151 Sockanosset Cross Rd,,RI,Cranston,2920
+Providence,7012,261 Waterman St,,RI,Providence,2906
+University Heights,215,601 N. Main St,,RI,Providence,2904
+Danbury,285,5C Sugar Hollow Road,,CT,Danbury,6810
+Darien,280,Interstate Hwy 95 at Leroy Ave.,,CT,Darien,6820
+Fairfield,281,Kings Hwy at Grasmere Ave.,,CT,Fairfield,6824
+Greenwich,217,90 E. Putnam Avenue,,CT,Greenwich,6830
+Milford,278,1650 Boston Post Road,,CT,Milford,6461
+Westport,273,399 Post Rd W,,CT,Westport,6880
+Edgewater,221,905 River Road,,NJ,Edgewater,7020
+Marlboro,288,113 Route 9 South,,NJ,marlboro,7726
+Union Relo,275,2245 Springfield Avenue,,NJ,Vauxhall,7088
+Middletown,230,471 Route 35 North,,NJ,Middletown,7748
+Montclair,220,701 Bloomfield Avenue,,NJ,Montclair,7042
+Paramus,276,300 Bergen Town Center,,NJ,Paramus,7652
+Rose City,224,222 Main Street,,NJ,Madison,7940
+Ridgewood,222,44 Godwin Avenue,,NJ,Ridgewood,7450
+West Orange,271,235 Prospect Avenue,,NJ,West Orange,7052
+Albany,289,1425 Central Ave,,NY,Albany,12205
+Brooklyn,287,214 Third Street,,NY,Brooklyn,11215
+Chelsea,223,250 7th Avenue at 24th Street,,NY,New York City,10001
+Columbus Circle,226,10 Columbus Circle,Ste. SC101,NY,New York City,10023
+Bowery,272,95 East Houston St,,NY,New York City,10002
+Jericho,232,429 North Broadway,,NY,Jericho,11753
+Lake Grove,279,120 New Moriches Road,,NY,Lake Grove,11755
+Manhasset,219,2101 Northern Blvd.,,NY,Munsey Park,11030
+57th Street,283,226 East 57th St,,NY,New York City,10022
+Port Chester,286,575 Boston Post Road,,NY,Port Chester,10573
+Tribeca,274,270 Greenwich Street,,NY,New York City,10007
+Union Square,227,4 Union Square South,,NY,New York City,10003
+Upper West Side,277,808 Columbus Ave,,NY,New York City,10025
+White Plains,228,110 Bloomingdale Rd,,NY,White Plains,10605
+Yonkers,282,One Ridge Hill Blvd,,NY,Yonkers,10710
+Arden Way,406,4315 Arden Way,,CA,Sacramento,95864
+Blithedale,415,731 E Blithedale Ave,,CA,Mill Valley,94941
+Blossom Hill,419,Alameda Rd at Blossom Hill Rd.,,CA,San Jose,95118
+Berkeley,12,3000 Telegraph Ave,,CA,Berkeley,94705
+Capitola,408,1710 41st Ave,,CA,Capitola,95010
+Castro,426,2001 Market Street,,CA,San Francisco,94103
+Campbell,37,1690 S. Bascom Avenue,,CA,Campbell,95008
+Coddingtown,417,390 Coddingtown Mall,,CA,Santa Rosa,95401
+Davis,423,500 First Street,,CA,Davis,95616
+Folsom,422,270 Palladio Parkway,,CA,Folsom,95630
+Fremont - Mowry,425,3111 Mowry Avenue,,CA,Fremont,94538
+Franklin,410,1765 California Street,,CA,San Francisco,94109
+Fresno,403,650 West Shaw Avenue,,CA,Fresno,93704
+Harrison,460,230 Bay Place,,CA,Oakland,94612
+Lafayette,421,3502 Mt. Diablo Blvd,,CA,Lafayette,94549
+Los Altos,454,4800 El Camino Real,,CA,Los Altos,94022
+Los Gatos,14,15980 Los Gatos Blvd,,CA,Los Gatos,95032
+Mill Valley,2006,414 Miller Ave,,CA,Mill Valley,94941
+Monterey,246,800 Del Monte Center,,CA,Monterey,93940
+Noe Valley,409,3950  24th Street,,CA,San Francisco,94114
+Novato,416,Delong Ave & Reichert,,CA,Novato,94945
+Napa,461,3682 Bel Aire Plaza,,CA,Napa,94558
+Ocean Avenue,424,1150 Ocean Ave,,CA,San Francisco,94112
+Palo Alto,11,774 Emerson Street,,CA,Palo Alto,94301
+Petaluma,400,621 E. Washington,,CA,Petaluma,94952
+Potrero Hill,457,450 Rhode Island Street,,CA,San Francisco,94107
+San Ramon,248,100 Sunset Drive,,CA,San Ramon,94583
+Redwood City,452,1250 Jefferson Ave,,CA,Redwood City,94062
+Roseville,463,1001 Galleria Blvd,,CA,Roseville,95678
+Sebastopol,402,6910 McKinley St.,,CA,Sebastopol,95472
+San Mateo,405,1010 Park Place,,CA,San Mateo,94403
+Sonoma,458,201 W Napa Street,,CA,Sonoma,95476
+SOMA,449,399 Fourth Street,,CA,San Francisco,94107
+San Rafael,45,340 Third Street,,CA,San Rafael,94901
+Santa Rosa,401,1181 Yulupa Ave,,CA,Santa Rosa,95405
+Stevens Creek,459,20955 Stevens Creek Blvd,,CA,Cupertino,95014
+Haight,420,690 Stanyan St,,CA,San Francisco,94117
+Santa Cruz,464,911 Soquel Ave,,CA,Santa Cruz,95062
+Walnut Creek,480,1333 E. Newell,,CA,Walnut Creek,94596
+Reno,462,6139 S. Virginia Street,,NV,Reno,89511
+Cambie,474,510 W 8th Ave.,,BC,Vancouver,V5Z 1C5
+Kitsilano,472,2285 West 4th Avenue,,BC,Vancouver,V6K 1N9
+W Vancouver,451,925 Main St,,BC,West Vancouver,V7T 2Z3
+Robson,461,1675 Robson Street,,BC,Vancouver,V6G 1C8
+Bend,465,2610 NE Hwy 20,,OR,Bend,97701
+Bridgeport,456,7380 SW Bridgeport Road,,OR,Lake Oswego,97224
+Fremont,469,3535 NE 15th Ave,,OR,Portland,97212
+Tigard (Greenway),478,12220 SW Scholls Ferry Road,,OR,Tigard,97223
+East Portland,476,NE Sandy Blvd at NE 44th Ave,,OR,Portland,97213
+Laurelhurst,471,2825 E Burnside St,,OR,Portland,97232
+Portland,404,1210 NW Couch Street,,OR,Portland,97209
+Tanasbourne,473,19440 NW Cornell Rd,,OR,Tanasbourne,97006
+Bellevue,450,888 116th Avenue NE,,WA,Bellevue,98005
+Interbay,475,2001 15th Avenue West,,WA,Seattle,98119
+Lynnwood,477,2800 SW 196th St. SW,,WA,Lynnwood,98036
+Mill Plain,466,815 Se 160th Ave,,WA,Vancouver,98683
+Redmond,453,17991 NE Redmond Way,,WA,Redmond,98052
+Roosevelt Square,247,1026 NE 64th Street,,WA,Seattle,98115
+Westlake,455,2210 Westlake Ave,,WA,Westlake,98121
+Basalt CO,386,340 Reed Street,,CO,Basalt,81621
+BelMar,353,444 South Wadsworth Blvd,,CO,Lakewood,80226
+Baseline,360,2584 Baseline Rd,,CO,Boulder,80305
+Cherry Creek,342,2375 E. First Ave,,CO,Denver,80206
+Colfax,363,14357 W Colfax Ave,,CO,Golden,80401
+Colorado Blvd,382,870 S Colorado Blvd,,CO,Denver,80246
+Capitol Hill,371,900 E 11th Ave,,CO,Denver,80218
+Frisco,389,261 Lusher Court,,CO,Frisco,80443
+Ft. Collins,349,2201 South College Ave,,CO,Fort Collins,80525
+Highlands Ranch,345,9366 South Colorado Blvd,Ste B,CO,Highlands Ranch,80126
+Alpine Ideal,375,1275 Alpine Ave,,CO,Boulder,80304
+Governers Ranch,388,5155 S Wadsworth Blvd,,CO,Littleton,80123
+New Center Point,379,3180 New Center Point,,CO,Colorado Springs,80922
+Pike's Peak,348,7635 N Academy Blvd,,CO,Colorado Springs,80920
+Pearl,337,2905 Pearl Street,,CO,Boulder,80301
+South Glen,383,6853 South York Street Suite 119,,CO,Centennial,80122
+Superior,354,303 Marshall Rd,,CO,Louisville,80027
+Tamarac,351,7400 E. Hampden Ave,,CO,Denver,80237
+Whole Foods Wine and Spirits,385,2315 30th St.,,CO,Boulder,80301
+Westminster,368,9229 N Sheridan Blvd,,CO,Westminster,80031
+Washington Park,365,1111 S Washington St,,CO,Denver,80210
+Boise,387,401 S. Broadway Street,,ID,Boise,83702
+Metcalf,344,7401 West 91st Street,,KS,Overland Park,66212
+Overland Park,372,6621 W 119th St,,KS,Overland Park,66209
+Academy,347,5815 Wyoming Blvd. NE,,NM,Albuquerque,87109
+Cerrillos,340,753 Cerrillos Rd,,NM,Santa Fe,87505
+Indian School Plaza,374,2103 Carlisle Blvd NE,,NM,Albuquerque,87106
+St. Francis,361,1090 St Francis Dr,,NM,Santa Fe,87505
+South Valley,391,11479 S. State Street,Suite B,UT,Draper,84020
+Cottonwood Heights,378,6930 S Highland Dr,,UT,Salt Lake City,84121
+Park City,380,1736 W Redstone Center Dr,,UT,Park City,84098
+Sugarhouse,373,1131 E Wilmington,,UT,Salt Lake City,84106
+Trolley Square,384,500 So. 700 East,,UT,Salt Lake City,84102
+Mountain Brook,10209,3100 Cahaba Village Plaza,,AL,Birmingham,35243
+Alpharetta,101,1180 Upper Hembree Rd.,,GA,Roswell,30076
+Briarcliff,10094,2111 Briarcliff Rd,,GA,Atlanta,30329
+Cobb,108,70 Powers Ferry Rd. S.E.,,GA,Marietta,30067
+Duluth,10215,5945 State Bridge Road,,GA,Duluth,30097
+Merchant's Walk,10342,1311 Johnson Ferry Road NE,,GA,Atlanta,30068
+Ponce de Leon,10196,650 Ponce de Leon Ave NE,,GA,Atlanta,30308
+Savannah,10489,1815 E. Victory Drive,,GA,Savannah,31404
+Sandy Springs,10136,5930 Roswell Road,,GA,Atlanta,30328
+W Paces Ferry,10206,77 West Paces Ferry Rd NW,,GA,West Paces Ferry,30305
+Jackson,10486,4500 I-55 North,,MS,Jackson,39211
+Charlotte,10443,6610 Fairview Road,,NC,Charlotte,28210
+Asheville,10351,70 Merrimon Avenue,,NC,Asheville,28801
+Cary,10132,102B New Waverly Place,,NC,Cary,27518
+Chapel Hill,10008,81 South Elliot,,NC,Chapel Hill,27514
+Durham,10041,621 Broad Street,,NC,Durham,27705
+Greensboro,10426,3202 West Friendly Avenue,,NC,Greensboro,27408
+North Raleigh,10338,8710 Six Forks Rd,,NC,Raleigh,27615
+Raleigh,6004,3540 Wade Avenue,,NC,Raleigh,27607
+Winston-Salem,10110,41 Miller Street,,NC,Winston-Salem,27104
+Wilmington,10453,3804 Oleander Drive,,NC,Wilmington,28403
+Charleston,10201,923 Houston Northcutt Blvd,,SC,Charleston,29464
+Cross Hill,10464,702 Cross Hill Rd,,SC,Columbia,29205
+Woodruff,10224,1140 Woodruff Road,,SC,Greenville,29607
+Chattanooga,10409,301 Manufacturer's Road,,TN,Chattanooga,37405
+Green Hills,10241,4021 Hillsboro Pike,,TN,Nashville,37215
+McEwen,10321,Mallory Lane at McEwen Drive,,TN,Franklin,37067
+Poplar Avenue,10480,5014 Poplar Ave,,TN,Memphis,38117
+Chandler,138,2955 West Ray Rd.,,AZ,Chandler,85224
+Camelback,168,4701 N. 20th Street,,AZ,Phoenix,85016
+Flagstaff,173,320 S. Cambridge Ln.,,AZ,Flagstaff,86001
+Prescott,174,1112 Iron Springs Rd.,,AZ,Prescott,86305
+Paradise Valley,122,10810 N Tatum Blvd,,AZ,Paradise Valley,85028
+River Road,167,5555 E River Rd,,AZ,Tucson,85750
+Scottsdale,135,7111 E Mayo Blvd,,AZ,Scottsdale,85054
+Sedona,175,1420 West Hwy. 89A,,AZ,Sedona,86336
+Speedway,157,3360 E Speedway Blvd,,AZ,Tucson,85716
+Tempe,115,5120 S. Rural,,AZ,Tempe,85282
+Arroyo,137,465 S Arroyo Pkwy.,,CA,Pasadena,91105
+Brentwood,114,11737 San Vicente Blvd,,CA,Los Angeles,90049
+Beverly Hills,1004,239 North Crescent Dr,,CA,Beverly Hills,90210
+Del Mar,162,2600 Via De La Valle,Suite 100,CA,Del Mar,92014
+Encinitas,161,S. Coast Hwy 101 at F Street,,CA,Encinitas,92024
+Fairfax,126,6350 West 3rd Street,,CA,Los Angeles,90036
+Glendale,129,331 North Glendale Avenue,,CA,Glendale,91206
+Hillcrest,113,711 University Avenue,,CA,San Diego,92103
+West Hollywood,120,7871 West Santa Monica Blvd.,,CA,Los Angeles,90046
+Huntington Beach,160,7881 Edinger Ave Suite 150,,CA,Huntington Beach,92647
+Jamboree,130,2847 Park Avenue,,CA,Tustin,92782
+Laguna Beach,152,283 Broadway St,,CA,Laguna Beach,92651
+La Jolla,112,8825 Villa La Jolla Drive,,CA,La Jolla,92037
+Long Beach,158,6550 E Pacific Coast Hwy,,CA,Long Beach,90803
+Laguna Niguel,164,23932 Aliso Creek,,CA,Laguna Niguel,92677
+Montana Avenue,151,1425 Montana Ave,,CA,Santa Monica,90402
+Newport Beach,165,415 Newport Center Drive,,CA,Newport Beach,92660
+Thousand Oaks,131,740 N. Moorpark Rd,,CA,Thousand Oaks,91360
+Oxnard,142,650 Town Center Drive,,CA,Oxnard,93036
+Pasadena,117,3751 East Foothill Blvd,,CA,Pasadena,91107
+Pacifc Coast Highway,134,760 S. Sepulveda Blvd,,CA,El Segundo,90245
+Porter Ranch,124,19340 Rinaldi Street,,CA,Northridge,91326
+Redondo Beach,1006,405 N. Pacific Coast Hwy,,CA,Redondo Beach,90277
+Santa Barbara,136,3761 State St,,CA,Santa Barbara,93105
+Sherman Oaks,104,12905 Riverside Drive,,CA,Sherman Oaks,91423
+Sherman Oaks West,110,4520 Sepulveda Boulevard,,CA,Sherman Oaks,91403
+San Luis Obispo,176,1531 Froom Ranch Way,,CA,San Luis Obispo,93405
+Santa Monica,123,2201 Wilshire Blvd,,CA,Santa Monica,90403
+Torrance,119,2655 Pacific Coast Highway,,CA,Torrance,90505
+Tarzana,139,Ventura Blvd & Yolana Av,,CA,Tarzana,91356
+Valencia,128,24130 Valencia Blvd,,CA,Valencia,91355
+Venice,143,225 Lincoln Blvd.,,CA,Venice,90291
+Woodland Hills,116,21347 Ventura Blvd,,CA,Woodland Hills,91367
+West LA,1009,11666 National Boulevard,,CA,Los Angeles,90066
+Wilshire Blvd,149,500 Wilshire Blvd,,CA,Santa Monica,90401
+Westwood,127,1050 S. Gayley,,CA,Westwood,90024
+Kailua Oahu,147,629 Kailua Rd.,,HI,Kailua,96734
+Kahala Mall Oahu,146,4211 Wai'alae Ave. Suite 2000,,HI,Honolulu,96816
+Maui Mall Maui,148,70 Kaahumanu Ave #B,,HI,Kahalui,96732
+Ft. Apache,125,8855 West Charleston Blvd.,,NV,Las Vegas,89117
+Henderson,133,100 S. Green Valley Parkway,,NV,Henderson,89012
+Las Vegas Boulevard,140,6689 Las Vegas Blvd. South,,NV,Las Vegas,89119
+Tenaya,155,7250 W Lake Mead Blvd,,NV,Las Vegas,89128
+Little Rock,314,10700 N Rodney Parham Rd,,AR,Little Rock,72212
+Arabella Station,350,5600 Magazine Street,,LA,New Orleans,70115
+New Orleans,331,30 N. Broad Street,Ste 103,LA,New Orleans,70119
+Baton Rouge,304,7529 Corporate Blvd,,LA,Baton Rouge,70809
+Veterans,303,3420 Veterans Highway,,LA,New Orleans,70002
+Oklahoma City,321,6001 N. Western Ave,,OK,Oklahoma City,73118
+Tulsa,315,1401 E 41st St,,OK,Tulsa,74105
+Yale,330,9136 South Yale Avenue,,OK,Tulsa,74137
+Arbor Trails,320,4301 W William Cannon,,TX,Austin,78749
+Addison,328,5100 Belt Line Road,Suite 1012,TX,Dallas,75254
+Bee Cave,322,12601 Hill Country Blvd,,TX,Austin,78738
+Bellaire,343,4004 Bellaire Blvd.,,TX,Houston,77005
+Champions,334,10133 Louetta Road,,TX,Houston,77070
+Domain,324,11920 Domain Drive,,TX,Austin,78759
+Preston Forest,312,11700 Preston Rd.,,TX,Dallas,75230
+Fairview,318,105 Stacy Rd,,TX,Fairview,75069
+Gateway,2,9607 Research Blvd. #300,,TX,Austin,78759
+Highland Park,346,4100 Lomo Alto Drive,,TX,Highland Park,75219
+Kirby,341,2955 Kirby Dr,,TX,Houston,77098
+Katy,327,6601 S. Fry Road,,TX,Katy,77494
+Lamar Culinary Center,311,6201 Bolm Rd,,TX,Austin,78721
+Lakewood,316,2118 Abrams Rd.,,TX,Dallas,75214
+Lamar,300,525 N Lamar,,TX,Austin,78703
+Las Cimas Cafe,329,807 Las Cimas Pkwy.,,TX,Austin,78746
+Montrose,319,701 Waugh Drive,,TX,Houston,77019
+Park Lane,317,8180 Park Lane,,TX,Dallas,75231
+Parkway,339,801 East Lamar,,TX,Arlington,76011
+Plano,336,2201 Preston Rd.,,TX,Plano,75093
+Quarry,309,255 E. Basse Road,Suite 130,TX,San Antonio,78209
+Sugarland,313,15900 Southwest Freeway,,TX,Sugarland,77478
+San Antonio (Vineyard),326,18403 Blanco Road,,TX,San Antonio,78258
+Wilcrest,3004,11145 Westheimer Road,,TX,Houston,77042
+Woodway,310,6401 Woodway #149,,TX,Houston,77057

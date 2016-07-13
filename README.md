@@ -68,7 +68,7 @@ curl -X POST -H "Accept: application/json" -H "Content-Type: application/json" -
 ### List items by UPC
 
 ```
-curl -X GET -H "Accept: application/json" -H "Authorization: Bearer  Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE0Njg1MTk3ODcsInN1YiI6IjBmYzRiZGY4LTBhZGItNDQyMi1hNWZkLTA1ODgzZjkyNmYwOSJ9.HqrziF5wP5Cl80f3GaqpUVE9Qi4D0dStOV0CFd4gZ5E" "http://localhost:3000/api/v1/items?upc=100"
+curl -X GET -H "Accept: application/json" -H "Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE0Njg1MTk3ODcsInN1YiI6IjBmYzRiZGY4LTBhZGItNDQyMi1hNWZkLTA1ODgzZjkyNmYwOSJ9.HqrziF5wP5Cl80f3GaqpUVE9Qi4D0dStOV0CFd4gZ5E" "http://localhost:3000/api/v1/items?upc=100"
 ```
 
 The response looks like the following

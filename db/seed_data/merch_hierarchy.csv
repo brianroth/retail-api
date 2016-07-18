@@ -1,0 +1,973 @@
+segment_id,segment_name,department_id,department_name,category_id,category_name,subcategory_id,subcategory_name
+82798,Baby Care,82817,Baby Care Variety Packs,82874,Baby Care Variety Packs,83435,Miscellaneous Baby and Child
+82798,Baby Care,82818,Baby Feeding/Hygiene,82875,Baby Feeding,83478,Baby Feeding - Bottles
+82798,Baby Care,82818,Baby Feeding/Hygiene,82875,Baby Feeding,83479,Baby Feeding Accessories
+82798,Baby Care,82818,Baby Feeding/Hygiene,82876,Baby Hygiene/Grooming,83475,Baby Diapers (Disposable)
+82798,Baby Care,82818,Baby Feeding/Hygiene,82876,Baby Hygiene/Grooming,83476,Baby Diapers (Non Disposable)
+82798,Baby Care,82818,Baby Feeding/Hygiene,82876,Baby Hygiene/Grooming,83477,Baby Diapers Accessories
+82798,Baby Care,82818,Baby Feeding/Hygiene,82876,Baby Hygiene/Grooming,83480,Baby Hygiene Products
+82798,Baby Care,82818,Baby Feeding/Hygiene,82876,Baby Hygiene/Grooming,83481,Baby Hygiene Products
+82798,Baby Care,82818,Baby Feeding/Hygiene,82876,Baby Hygiene/Grooming,83482,Baby Hygiene/Grooming Other
+82799,Beauty/Personal Care/Hygiene,82820,Body Products,82887,Body Massage/Toning,83517,Body Massage/Toning Other
+82799,Beauty/Personal Care/Hygiene,82826,Cosmetics/Fragrances,82872,Aromatherapy,83463,Aromatherapy Other
+82799,Beauty/Personal Care/Hygiene,82826,Cosmetics/Fragrances,82872,Aromatherapy,83655,Essential Oils
+82799,Beauty/Personal Care/Hygiene,82826,Cosmetics/Fragrances,82903,Cosmetic Products,83604,Cosmetic Products Other
+82799,Beauty/Personal Care/Hygiene,82826,Cosmetics/Fragrances,82903,Cosmetic Products,83605,Cosmetics - Complexion
+82799,Beauty/Personal Care/Hygiene,82826,Cosmetics/Fragrances,82903,Cosmetic Products,83606,Cosmetics - Eyes
+82799,Beauty/Personal Care/Hygiene,82826,Cosmetics/Fragrances,82903,Cosmetic Products,83607,Cosmetics - Lipstick and Gloss
+82799,Beauty/Personal Care/Hygiene,82826,Cosmetics/Fragrances,82923,Fragrances,83690,Fragrances
+82799,Beauty/Personal Care/Hygiene,82826,Cosmetics/Fragrances,82964,Nail Cosmetic/Care Products,83608,Cosmetics - Nail Polish
+82799,Beauty/Personal Care/Hygiene,82826,Cosmetics/Fragrances,82964,Nail Cosmetic/Care Products,83902,Nail Products Other
+82799,Beauty/Personal Care/Hygiene,82826,Cosmetics/Fragrances,82964,Nail Cosmetic/Care Products,83903,Nails - Treatments
+82799,Beauty/Personal Care/Hygiene,82834,Hair Products,82936,Hair Care Products,83760,Hair - Accessories
+82799,Beauty/Personal Care/Hygiene,82834,Hair Products,82936,Hair Care Products,98211,Hair - Accessories (barettes)
+82799,Beauty/Personal Care/Hygiene,82834,Hair Products,82936,Hair Care Products,83761,Hair - Color
+82799,Beauty/Personal Care/Hygiene,82834,Hair Products,82936,Hair Care Products,83762,Hair - Conditioner/Treatment
+82799,Beauty/Personal Care/Hygiene,82834,Hair Products,82936,Hair Care Products,83763,Hair - Shampoo
+82799,Beauty/Personal Care/Hygiene,82834,Hair Products,82936,Hair Care Products,83764,Hair - Styling Gels
+82799,Beauty/Personal Care/Hygiene,82834,Hair Products,82936,Hair Care Products,89189,Hair _ Styling (Powered)
+82799,Beauty/Personal Care/Hygiene,82834,Hair Products,82936,Hair Care Products,83765,Hair Care Products Other
+82799,Beauty/Personal Care/Hygiene,82834,Hair Products,82937,Hair Removal/Masking Products,83766,Hair Removal - Care
+82799,Beauty/Personal Care/Hygiene,82834,Hair Products,82937,Hair Removal/Masking Products,83767,Hair Removal/Shaving - Accessories
+82799,Beauty/Personal Care/Hygiene,82834,Hair Products,82937,Hair Removal/Masking Products,84042,Shaving Preparations
+82799,Beauty/Personal Care/Hygiene,82850,Personal Hygiene Products,82866,Adult Incontinence,83446,Adult Incontinence - Pads
+82799,Beauty/Personal Care/Hygiene,82850,Personal Hygiene Products,82866,Adult Incontinence,83447,Adult Incontinence - Underwear (Disposable)
+82799,Beauty/Personal Care/Hygiene,82850,Personal Hygiene Products,82914,Feminine/Nursing Hygiene,83668,Feminine Hygiene - Cups
+82799,Beauty/Personal Care/Hygiene,82850,Personal Hygiene Products,82914,Feminine/Nursing Hygiene,83669,Feminine Hygiene - Tampons
+82799,Beauty/Personal Care/Hygiene,82850,Personal Hygiene Products,82914,Feminine/Nursing Hygiene,83670,Feminine Hygiene - Towels/Pads
+82799,Beauty/Personal Care/Hygiene,82850,Personal Hygiene Products,82914,Feminine/Nursing Hygiene,83671,Feminine/Nursing Hygiene Other
+82799,Beauty/Personal Care/Hygiene,82850,Personal Hygiene Products,82914,Feminine/Nursing Hygiene,83992,Pre & Post Natal Care
+82799,Beauty/Personal Care/Hygiene,82850,Personal Hygiene Products,82929,General Personal Hygiene,83453,Antiperspirants/Deodorants
+82799,Beauty/Personal Care/Hygiene,82850,Personal Hygiene Products,82929,General Personal Hygiene,83665,Facial Tissue/Handkerchiefs (Disposable)
+82799,Beauty/Personal Care/Hygiene,82850,Personal Hygiene Products,82929,General Personal Hygiene,98254,Bath Accessories Don't Use This One
+82799,Beauty/Personal Care/Hygiene,82850,Personal Hygiene Products,82929,General Personal Hygiene,83516,Body  Face & Foot Accessories
+82799,Beauty/Personal Care/Hygiene,82850,Personal Hygiene Products,82929,General Personal Hygiene,83666,Facial Trial Kits
+82799,Beauty/Personal Care/Hygiene,82850,Personal Hygiene Products,82929,General Personal Hygiene,120292,Gift Set Single Team
+82799,Beauty/Personal Care/Hygiene,82850,Personal Hygiene Products,82929,General Personal Hygiene,83434,Misc Body Care
+82799,Beauty/Personal Care/Hygiene,82850,Personal Hygiene Products,82929,General Personal Hygiene,83926,Other Accessories
+82799,Beauty/Personal Care/Hygiene,82850,Personal Hygiene Products,82929,General Personal Hygiene,98208,Other Accessories (Empty Bottles)
+82799,Beauty/Personal Care/Hygiene,82850,Personal Hygiene Products,82929,General Personal Hygiene,83934,Other Travel Body Care
+82799,Beauty/Personal Care/Hygiene,82850,Personal Hygiene Products,82929,General Personal Hygiene,83980,Pillows & Eye Masks
+82799,Beauty/Personal Care/Hygiene,82850,Personal Hygiene Products,82929,General Personal Hygiene,98218,Pillows & Eye Masks LS
+82799,Beauty/Personal Care/Hygiene,82850,Personal Hygiene Products,82929,General Personal Hygiene,84157,Toilet Paper
+82799,Beauty/Personal Care/Hygiene,82850,Personal Hygiene Products,82971,Oral Hygiene,83524,Breath Fresheners/Mouth Rinses
+82799,Beauty/Personal Care/Hygiene,82850,Personal Hygiene Products,82971,Oral Hygiene,83615,Dental Cleansing
+82799,Beauty/Personal Care/Hygiene,82850,Personal Hygiene Products,82971,Oral Hygiene,83920,Oral Hygiene Other
+82799,Beauty/Personal Care/Hygiene,82856,Skin Products,82888,Body Washing,83496,Bath Additives
+82799,Beauty/Personal Care/Hygiene,82856,Skin Products,82888,Body Washing,98220,Bath Accessories
+82799,Beauty/Personal Care/Hygiene,82856,Skin Products,82888,Body Washing,83518,Body Washing Other
+82799,Beauty/Personal Care/Hygiene,82856,Skin Products,82888,Body Washing,83593,Cleansing/Washing/Soap - Body
+82799,Beauty/Personal Care/Hygiene,82856,Skin Products,82888,Body Washing,84217,Wipes - Personal
+82799,Beauty/Personal Care/Hygiene,82856,Skin Products,83002,Skin Care,83448,After Shave Care
+82799,Beauty/Personal Care/Hygiene,82856,Skin Products,83002,Skin Care,83449,After Sun Moisturisers
+82799,Beauty/Personal Care/Hygiene,82856,Skin Products,83002,Skin Care,83592,Cleansers/Cosmetics Removers (Non Powered)
+82799,Beauty/Personal Care/Hygiene,82856,Skin Products,83002,Skin Care,83657,Exfoliants/Masks
+82799,Beauty/Personal Care/Hygiene,82856,Skin Products,83002,Skin Care,83868,Lip Balms
+82799,Beauty/Personal Care/Hygiene,82856,Skin Products,83002,Skin Care,84052,Skin Care Other
+82799,Beauty/Personal Care/Hygiene,82856,Skin Products,83002,Skin Care,96962,Coconut Oil Topical
+82799,Beauty/Personal Care/Hygiene,82856,Skin Products,83002,Skin Care,84053,Skin Care/Moisturising Products
+82799,Beauty/Personal Care/Hygiene,82856,Skin Products,83002,Skin Care,84054,Skin Drying Powder
+82799,Beauty/Personal Care/Hygiene,82856,Skin Products,83002,Skin Care,84160,Toners/Astringents
+82799,Beauty/Personal Care/Hygiene,82856,Skin Products,83003,Skin Tanning Products,84144,Sun Protection Products
+82799,Beauty/Personal Care/Hygiene,82856,Skin Products,83003,Skin Tanning Products,84145,Sunless Tanning - Topical
+87605,Camping,87606,Camping,87607,Camping Cooking/Drinking/Eating Equipment,87609,Lunch Boxes and Bags
+82800,Cleaning/Hygiene Products,82823,Cleaning Products,82896,Cleaners,83530,Bulk
+82800,Cleaning/Hygiene Products,82823,Cleaning Products,82896,Cleaners,83590,Cleaners Other
+82800,Cleaning/Hygiene Products,82823,Cleaning Products,82896,Cleaners,96980,Produce Wash
+82800,Cleaning/Hygiene Products,82823,Cleaning Products,82896,Cleaners,83591,Cleaning Accessories
+82800,Cleaning/Hygiene Products,82823,Cleaning Products,82896,Cleaners,83628,Dish Cleaning/Care - Automatic
+82800,Cleaning/Hygiene Products,82823,Cleaning Products,82896,Cleaners,83629,Dish Cleaning/Care - Hand
+82800,Cleaning/Hygiene Products,82823,Cleaning Products,82896,Cleaners,83949,Paper Towels
+82800,Cleaning/Hygiene Products,82823,Cleaning Products,82896,Cleaners,84146,Surface Cleaners
+82800,Cleaning/Hygiene Products,82823,Cleaning Products,82924,Fresheners/Deodorisers,83450,Air Fresheners/Deodorisers (Non Powered)
+82800,Cleaning/Hygiene Products,82823,Cleaning Products,82924,Fresheners/Deodorisers,83692,Fresheners/Deodorisers Other
+82800,Cleaning/Hygiene Products,82823,Cleaning Products,82949,Laundry,83624,Detergent Boosters/Laundry Bleaches
+82800,Cleaning/Hygiene Products,82823,Cleaning Products,82949,Laundry,83662,Fabric Softeners/Conditioners
+82800,Cleaning/Hygiene Products,82823,Cleaning Products,82949,Laundry,83857,Laundry Detergents
+82800,Cleaning/Hygiene Products,82823,Cleaning Products,82949,Laundry,83858,Laundry Other
+82800,Cleaning/Hygiene Products,82838,Insect/Pest/Allergen Control,82944,Insect/Pest/Allergen Control,83840,Insect and Pest - Topical
+82800,Cleaning/Hygiene Products,82838,Insect/Pest/Allergen Control,82944,Insect/Pest/Allergen Control,96990,Insect/Pest/Allergen Control
+82800,Cleaning/Hygiene Products,82865,Waste Management Products,83024,Waste Storage Products,84006,Refuse Bags
+82801,Clothing,82824,Clothing,82897,Clothing Accessories,83770,Handwear
+82801,Clothing,82824,Clothing,82897,Clothing Accessories,83772,Headwear
+82801,Clothing,82824,Clothing,82898,Clothing Variety Packs,83454,Apparel Accessories
+82801,Clothing,82824,Clothing,82898,Clothing Variety Packs,83455,Apparel: Miscellaneous Baby and Child Apparel
+82801,Clothing,82824,Clothing,82898,Clothing Variety Packs,83472,Baby and Child: Apparel: Accessories
+82801,Clothing,82824,Clothing,82898,Clothing Variety Packs,83473,Baby and Child: Apparel: Clothes
+82801,Clothing,82824,Clothing,82898,Clothing Variety Packs,83474,Baby and Child: Baby and Child: Baby Accessories
+82801,Clothing,82824,Clothing,82898,Clothing Variety Packs,83595,Clothing Variety Packs
+82801,Clothing,82824,Clothing,82898,Clothing Variety Packs,83882,Men's Apparel
+82801,Clothing,82824,Clothing,82898,Clothing Variety Packs,83883,Men's Apparel: Socks
+82801,Clothing,82824,Clothing,82898,Clothing Variety Packs,83884,Men's Apparel: Yoga
+82801,Clothing,82824,Clothing,82898,Clothing Variety Packs,83897,Miscellaneous: Miscellaneous Apparel
+82801,Clothing,82824,Clothing,82898,Clothing Variety Packs,84173,Unisex Apparel
+82801,Clothing,82824,Clothing,82898,Clothing Variety Packs,84218,Women's Apparel
+82801,Clothing,82824,Clothing,82898,Clothing Variety Packs,84219,Women's Apparel: Socks
+82801,Clothing,82824,Clothing,82898,Clothing Variety Packs,84220,Women's Apparel: Yoga
+84280,Electrical Supplies,84282,Electrical Connection/Distribution,84285,Batteries/Chargers,84294,Batteries
+84280,Electrical Supplies,84283,Electrical Lighting,84286,Electric Lamps/Light Bulbs/Lighting,84304,Light Bulbs/Tubes/Light-Emitting Diodes
+82802,Food/Beverage,82819,Beverages,82867,Alcoholic Beverages,87362,Alcohol Making Kits
+82802,Food/Beverage,82819,Beverages,82867,Alcoholic Beverages,87360,Alcohol Making Supplies
+82802,Food/Beverage,82819,Beverages,82867,Alcoholic Beverages,96963,Bulk Alcohol Making Supplies
+82802,Food/Beverage,82819,Beverages,82867,Alcoholic Beverages,87354,Fruit and Honey Based (Includes Cider
+82802,Food/Beverage,82819,Beverages,82867,Alcoholic Beverages,120742,Fruit and Honey Based (Includes Cider
+82802,Food/Beverage,82819,Beverages,82867,Alcoholic Beverages,120743,Fruit and Honey Based (Includes Cider
+82802,Food/Beverage,82819,Beverages,82867,Alcoholic Beverages,83502,Beer
+82802,Food/Beverage,82819,Beverages,82867,Alcoholic Beverages,99489,Beer Broken Singles
+82802,Food/Beverage,82819,Beverages,82867,Alcoholic Beverages,119159,Beer Large Singles
+82802,Food/Beverage,82819,Beverages,82867,Alcoholic Beverages,120295,Gift Set Single Team
+82802,Food/Beverage,82819,Beverages,82867,Alcoholic Beverages,87356,Liqueurs - Spirit Based Infused with Herbs
+82802,Food/Beverage,82819,Beverages,82867,Alcoholic Beverages,87358,Non Grape Fermented Alcoholic Beverages  _ (Includes Sake and Fruit Based Wines)
+82802,Food/Beverage,82819,Beverages,82867,Alcoholic Beverages,120294,Gift Set Single Team
+82802,Food/Beverage,82819,Beverages,82867,Alcoholic Beverages,84124,Spirits
+82802,Food/Beverage,82819,Beverages,82867,Alcoholic Beverages,84208,Wine _ Fortified - Includes Sherry
+82802,Food/Beverage,82819,Beverages,82867,Alcoholic Beverages,84209,Wine - Sparkling
+82802,Food/Beverage,82819,Beverages,82867,Alcoholic Beverages,84215,Gift Set Single Team
+82802,Food/Beverage,82819,Beverages,82867,Alcoholic Beverages,84210,Wine - Still
+82802,Food/Beverage,82819,Beverages,82867,Alcoholic Beverages,84213,Wine Bar: Enomatic
+82802,Food/Beverage,82819,Beverages,82867,Alcoholic Beverages,84214,Wine Bar: Wine By The Glass
+82802,Food/Beverage,82819,Beverages,82867,Alcoholic Beverages,84216,Wine Not Classified
+82802,Food/Beverage,82819,Beverages,82899,Coffee/Tea/Substitutes,84295,Coffee - Beans/Ground Bulk
+82802,Food/Beverage,82819,Beverages,82899,Coffee/Tea/Substitutes,83596,Coffee - Vendor Packaged Beans/Ground
+82802,Food/Beverage,82819,Beverages,82899,Coffee/Tea/Substitutes,83597,Coffee - Instant
+82802,Food/Beverage,82819,Beverages,82899,Coffee/Tea/Substitutes,83599,Coffee - Ready to Drink
+82802,Food/Beverage,82819,Beverages,82899,Coffee/Tea/Substitutes,88663,Fruit Herbal Infusions
+82802,Food/Beverage,82819,Beverages,82899,Coffee/Tea/Substitutes,83728,Fruit Herbal Infusions - Bags/Loose
+82802,Food/Beverage,82819,Beverages,82899,Coffee/Tea/Substitutes,84153,Tea - Bags/Loose
+82802,Food/Beverage,82819,Beverages,82899,Coffee/Tea/Substitutes,87437,Tea Bulk
+82802,Food/Beverage,82819,Beverages,82899,Coffee/Tea/Substitutes,84154,Tea - Ready to Drink
+82802,Food/Beverage,82819,Beverages,82965,Non Alcoholic Beverages - Not Ready to Drink,84085,Vendor Packaged Artisan (local
+82802,Food/Beverage,82819,Beverages,82965,Non Alcoholic Beverages - Not Ready to Drink,84086,Vendor Packaged Commodity Drinking Chocolates
+82802,Food/Beverage,82819,Beverages,82965,Non Alcoholic Beverages - Not Ready to Drink,83611,Dairy/Dairy Substitute Based Drinks - Not Ready to Drink (Shelf Stable)
+82802,Food/Beverage,82819,Beverages,82965,Non Alcoholic Beverages - Not Ready to Drink,83645,Drinks Flavored - Not Ready to Drink
+82802,Food/Beverage,82819,Beverages,82965,Non Alcoholic Beverages - Not Ready to Drink,83646,Drinks Flavored - Not Ready to Drink
+82802,Food/Beverage,82819,Beverages,82965,Non Alcoholic Beverages - Not Ready to Drink,96988,Drinks Flavored - Not Ready to Drink
+82802,Food/Beverage,82819,Beverages,82965,Non Alcoholic Beverages - Not Ready to Drink,83729,Fruit Juice - Not Ready to Drink (Frozen)
+82802,Food/Beverage,82819,Beverages,82965,Non Alcoholic Beverages - Not Ready to Drink,83730,Fruit Juice - Not Ready to Drink (Shelf Stable)
+82802,Food/Beverage,82819,Beverages,82966,Non Alcoholic Beverages - Ready to Drink,97073,Functional Beverage (Includes Kefir
+82802,Food/Beverage,82819,Beverages,82966,Non Alcoholic Beverages - Ready to Drink,83647,Drinks Flavored - Ready to Drink
+82802,Food/Beverage,82819,Beverages,82966,Non Alcoholic Beverages - Ready to Drink,83648,Drinks Flavored - Ready to Drink
+82802,Food/Beverage,82819,Beverages,82966,Non Alcoholic Beverages - Ready to Drink,83731,Fruit Juice - Ready to Drink (Perishable)
+82802,Food/Beverage,82819,Beverages,82966,Non Alcoholic Beverages - Ready to Drink,83732,Fruit Juice - Ready to Drink (Perishable)
+82802,Food/Beverage,82819,Beverages,82966,Non Alcoholic Beverages - Ready to Drink,83733,Fruit Juice - Ready to Drink (Perishable)
+82802,Food/Beverage,82819,Beverages,82966,Non Alcoholic Beverages - Ready to Drink,83734,Fruit Juice - Ready to Drink (Shelf Stable)
+82802,Food/Beverage,82819,Beverages,82966,Non Alcoholic Beverages - Ready to Drink,83834,Ice
+82802,Food/Beverage,82819,Beverages,82966,Non Alcoholic Beverages - Ready to Drink,84110,Specialty: Non Alcoholic
+82802,Food/Beverage,82819,Beverages,82966,Non Alcoholic Beverages - Ready to Drink,86933,Specialty: Non Alcoholic: Beer
+82802,Food/Beverage,82819,Beverages,82966,Non Alcoholic Beverages - Ready to Drink,83939,Bulk Water
+82802,Food/Beverage,82819,Beverages,82966,Non Alcoholic Beverages - Ready to Drink,83938,Packaged Water
+82802,Food/Beverage,82819,Beverages,82966,Non Alcoholic Beverages - Ready to Drink,84125,Sports Drinks - Rehydration (Ready To Drink)
+82802,Food/Beverage,82819,Beverages,82966,Non Alcoholic Beverages - Ready to Drink,96983,Functional Beverage - Single Serve Health
+82802,Food/Beverage,82819,Beverages,82966,Non Alcoholic Beverages - Ready to Drink,97466,Functional Beverage and Juices - Ready to Drink (Perishable)
+82802,Food/Beverage,82819,Beverages,82966,Non Alcoholic Beverages - Ready to Drink,84133,Functional Beverage and Juices - Ready to Drink (Shelf Stable)
+82802,Food/Beverage,82819,Beverages,82966,Non Alcoholic Beverages - Ready to Drink,84192,Vegetable Juice - Ready to Drink (Perishable)
+82802,Food/Beverage,82819,Beverages,82966,Non Alcoholic Beverages - Ready to Drink,87623,Vegetable Juice Drinks _ Ready to Drink (Shelf Stable)
+82802,Food/Beverage,82821,Bread/Bakery Products,82878,Baking/Cooking Mixes/Supplies,83490,Baking/Cooking Mixes (Shelf Stable)
+82802,Food/Beverage,82821,Bread/Bakery Products,82878,Baking/Cooking Mixes/Supplies,83491,Baking/Cooking Mixes (Shelf Stable)
+82802,Food/Beverage,82821,Bread/Bakery Products,82878,Baking/Cooking Mixes/Supplies,83492,Baking/Cooking Mixes (Shelf Stable)
+82802,Food/Beverage,82821,Bread/Bakery Products,82878,Baking/Cooking Mixes/Supplies,83493,Baking/Cooking Supplies (Perishable)
+82802,Food/Beverage,82821,Bread/Bakery Products,82878,Baking/Cooking Mixes/Supplies,96981,In House and Vendor Packaged Pizza and Pizza
+82802,Food/Beverage,82821,Bread/Bakery Products,82878,Baking/Cooking Mixes/Supplies,96965,Pizza Dough
+82802,Food/Beverage,82821,Bread/Bakery Products,82884,Biscuits/Cookies,83507,Biscuits/Cookies (Perishable)
+82802,Food/Beverage,82821,Bread/Bakery Products,82884,Biscuits/Cookies,83508,Biscuits/Cookies (Perishable)
+82802,Food/Beverage,82821,Bread/Bakery Products,82884,Biscuits/Cookies,83509,Biscuits/Cookies (Shelf Stable)
+82802,Food/Beverage,82821,Bread/Bakery Products,82884,Biscuits/Cookies,83510,Biscuits/Cookies (Shelf Stable)
+82802,Food/Beverage,82821,Bread/Bakery Products,82884,Biscuits/Cookies,84166,Tubbed and Holiday Boxed
+82802,Food/Beverage,82821,Bread/Bakery Products,82884,Biscuits/Cookies,84098,Vendor Packaged Artisanal Crackers
+82802,Food/Beverage,82821,Bread/Bakery Products,82884,Biscuits/Cookies,98466,Vendor Packaged Artisanal Crackers
+82802,Food/Beverage,82821,Bread/Bakery Products,82884,Biscuits/Cookies,83738,Vendor Packaged Commodity Cracker
+82802,Food/Beverage,82821,Bread/Bakery Products,82884,Biscuits/Cookies,84205,Wafers & Toasts: Breadsticks
+82802,Food/Beverage,82821,Bread/Bakery Products,82884,Biscuits/Cookies,83643,Dried Breads (Shelf Stable) - Bulk Bin
+82802,Food/Beverage,82821,Bread/Bakery Products,82884,Biscuits/Cookies,83641,Dried Breads (Shelf Stable) _ In House Packaged
+82802,Food/Beverage,82821,Bread/Bakery Products,82884,Biscuits/Cookies,83642,Dried Breads (Shelf Stable) _ Vendor Packaged
+82802,Food/Beverage,82821,Bread/Bakery Products,82884,Biscuits/Cookies,83936,Oven Ready - ABF: Stuffing
+82802,Food/Beverage,82821,Bread/Bakery Products,82890,Bread,83520,Bread (Includes Gluten Free)
+82802,Food/Beverage,82821,Bread/Bakery Products,82890,Bread,83521,Bread (Perishable)
+82802,Food/Beverage,82821,Bread/Bakery Products,82890,Bread,87495,Bread Products
+82802,Food/Beverage,82821,Bread/Bakery Products,82890,Bread,83522,Bread (Shelf Stable) - In House Packaged (includes Packaged
+82802,Food/Beverage,82821,Bread/Bakery Products,82890,Bread,83523,Bread (Shelf Stable) - Vendor Packaged
+82802,Food/Beverage,82821,Bread/Bakery Products,82891,Bread/Bakery Products Variety Packs,97127,Bakery Innovations
+82802,Food/Beverage,82821,Bread/Bakery Products,82891,Bread/Bakery Products Variety Packs,120298,Gift Set Single Team
+82802,Food/Beverage,82821,Bread/Bakery Products,82891,Bread/Bakery Products Variety Packs,83927,Stuffing
+82802,Food/Beverage,82821,Bread/Bakery Products,82997,Savoury Bakery Products,83979,Pies/Pastries/Pizzas/Quiches - Savoury (Frozen)
+82802,Food/Beverage,82821,Bread/Bakery Products,82997,Savoury Bakery Products,85638,Pies/Pastries/Pizzas/Quiches - Refrigerated Savoury
+82802,Food/Beverage,82821,Bread/Bakery Products,82997,Savoury Bakery Products,87464,Pies/Pastries/Pizzas/Quiches - Savoury (Perishable)
+82802,Food/Beverage,82821,Bread/Bakery Products,82997,Savoury Bakery Products,86145,Pies/Pastries/Pizzas/Quiches - Hot Savoury
+82802,Food/Beverage,82821,Bread/Bakery Products,83012,Sweet Bakery Products,87332,Cakes - Sweet - Includes Pancakes
+82802,Food/Beverage,82821,Bread/Bakery Products,83012,Sweet Bakery Products,83533,Cakes - Sweet (Perishable)
+82802,Food/Beverage,82821,Bread/Bakery Products,83012,Sweet Bakery Products,83977,Pies/Pastries - Sweet (Frozen)
+82802,Food/Beverage,82821,Bread/Bakery Products,83012,Sweet Bakery Products,83978,Pies/Pastries - Sweet (Perishable)
+82802,Food/Beverage,82821,Bread/Bakery Products,83012,Sweet Bakery Products,87331,Pies/Pastries - Sweet (Perishable)
+82802,Food/Beverage,82821,Bread/Bakery Products,83012,Sweet Bakery Products,85927,Pies/Pastries - Sweet (Shelf Stable)
+82802,Food/Beverage,82822,Cereal/Grain/Pulse Products,82933,Grains/Flour,83680,Flour - Cereal/Pulse (Shelf Stable)
+82802,Food/Beverage,82822,Cereal/Grain/Pulse Products,82933,Grains/Flour,83681,Flour - Cereal/Pulse (Shelf Stable)
+82802,Food/Beverage,82822,Cereal/Grain/Pulse Products,82933,Grains/Flour,83751,Grains/Cereal - Not Ready to Eat - (Shelf Stable)
+82802,Food/Beverage,82822,Cereal/Grain/Pulse Products,82933,Grains/Flour,83752,Grains/Cereal - Not Ready to Eat - (Shelf Stable)
+82802,Food/Beverage,82822,Cereal/Grain/Pulse Products,82933,Grains/Flour,89187,Grains/Cereal _ Ready to Eat _ (Perishable)
+82802,Food/Beverage,82822,Cereal/Grain/Pulse Products,82933,Grains/Flour,83753,Grains/Cereal - Ready to Eat - (Shelf Stable)
+82802,Food/Beverage,82822,Cereal/Grain/Pulse Products,82933,Grains/Flour,83754,Grains/Cereal - Ready to Eat - (Shelf Stable)
+82802,Food/Beverage,82822,Cereal/Grain/Pulse Products,82933,Grains/Flour,84305,Made In House Granola
+82802,Food/Beverage,82822,Cereal/Grain/Pulse Products,82993,Processed Cereal Products,83550,Cereal/Muesli Bars
+82802,Food/Beverage,82822,Cereal/Grain/Pulse Products,82993,Processed Cereal Products,83551,Cereals Products - Ready to Eat (Shelf Stable)
+82802,Food/Beverage,82825,Confectionery/Sugar Sweetening Products,82900,Confectionery Products,83571,Chewing Gum
+82802,Food/Beverage,82825,Confectionery/Sugar Sweetening Products,82900,Confectionery Products,83583,Chocolate and Chocolate/Sugar Combination - Confectionery - In House Made
+82802,Food/Beverage,82825,Confectionery/Sugar Sweetening Products,82900,Confectionery Products,83586,Chocolate and Chocolate/Sugar Combination - Confectionery - In House Packaged & Bulk Bin
+82802,Food/Beverage,82825,Confectionery/Sugar Sweetening Products,82900,Confectionery Products,83585,Chocolate and Chocolate/Sugar Combination - Confectionery - Vendor Packaged Artisan (Local
+82802,Food/Beverage,82825,Confectionery/Sugar Sweetening Products,82900,Confectionery Products,83584,Chocolate and Chocolate/Sugar Combination - Confectionery - Vendor Packaged/Commodity
+82802,Food/Beverage,82825,Confectionery/Sugar Sweetening Products,82900,Confectionery Products,83736,Fruit Snacks
+82802,Food/Beverage,82825,Confectionery/Sugar Sweetening Products,82900,Confectionery Products,83771,Hard Candy
+82802,Food/Beverage,82825,Confectionery/Sugar Sweetening Products,82900,Confectionery Products,83866,Licorice
+82802,Food/Beverage,82825,Confectionery/Sugar Sweetening Products,82900,Confectionery Products,84089,Specialty: Chocolate & Sweets: Sweets: Caramels
+82802,Food/Beverage,82825,Confectionery/Sugar Sweetening Products,82900,Confectionery Products,84137,Sugar Candy/Sugar Candy Substitutes Confectionery
+82802,Food/Beverage,82825,Confectionery/Sugar Sweetening Products,82900,Confectionery Products,84138,Sugar Candy/Sugar Candy Substitutes Confectionery
+82802,Food/Beverage,82825,Confectionery/Sugar Sweetening Products,82901,Confectionery/Sugar Sweetening Products Variety Packs,83602,Confectionery/Sugar Sweetening Products Variety Packs
+82802,Food/Beverage,82825,Confectionery/Sugar Sweetening Products,83011,Sugars/Sugar Substitute Products,84142,Sugar/Sugar Substitutes - In House Packaged & Bulk Bin
+82802,Food/Beverage,82825,Confectionery/Sugar Sweetening Products,83011,Sugars/Sugar Substitute Products,84141,Sugar/Sugar Substitutes - Vendor Packaged
+82802,Food/Beverage,82825,Confectionery/Sugar Sweetening Products,83011,Sugars/Sugar Substitute Products,84151,Syrup/Treacle/Molasses - In House Packaged & Bulk Bin
+82802,Food/Beverage,82825,Confectionery/Sugar Sweetening Products,83011,Sugars/Sugar Substitute Products,84150,Syrup/Treacle/Molasses - Vendor Packaged
+82802,Food/Beverage,82829,Food/Beverage Variety Packs,82921,Food/Beverage Variety Packs,83686,Food/Beverage Variety Packs
+82802,Food/Beverage,82829,Food/Beverage Variety Packs,82921,Food/Beverage Variety Packs,83890,Misc. Raw Foods
+82802,Food/Beverage,82829,Food/Beverage Variety Packs,82921,Food/Beverage Variety Packs,83894,Miscellaneous Specialty
+82802,Food/Beverage,82831,Fruits - Unprepared/Unprocessed (Fresh),82873,Avocados,83470,Avocados - Pebbled Peel (Hass_Type)
+82802,Food/Beverage,82831,Fruits - Unprepared/Unprocessed (Fresh),82879,Bananas,83494,Bananas
+82802,Food/Beverage,82831,Fruits - Unprepared/Unprocessed (Fresh),82883,Berries/Small Fruit,83513,Blackberries
+82802,Food/Beverage,82831,Fruits - Unprepared/Unprocessed (Fresh),82883,Berries/Small Fruit,83514,Blueberries
+82802,Food/Beverage,82831,Fruits - Unprepared/Unprocessed (Fresh),82883,Berries/Small Fruit,84004,Raspberries
+82802,Food/Beverage,82831,Fruits - Unprepared/Unprocessed (Fresh),82883,Berries/Small Fruit,84136,Strawberries
+82802,Food/Beverage,82831,Fruits - Unprepared/Unprocessed (Fresh),82883,Berries/Small Fruit,84152,Table Grapes
+82802,Food/Beverage,82831,Fruits - Unprepared/Unprocessed (Fresh),82895,Citrus,83594,Clementines
+82802,Food/Beverage,82831,Fruits - Unprepared/Unprocessed (Fresh),82895,Citrus,83755,Grapefruits
+82802,Food/Beverage,82831,Fruits - Unprepared/Unprocessed (Fresh),82895,Citrus,83864,Lemons
+82802,Food/Beverage,82831,Fruits - Unprepared/Unprocessed (Fresh),82895,Citrus,83867,Limes
+82802,Food/Beverage,82831,Fruits - Unprepared/Unprocessed (Fresh),82895,Citrus,83870,Mandarin Hybrids
+82802,Food/Beverage,82831,Fruits - Unprepared/Unprocessed (Fresh),82895,Citrus,83921,Oranges
+82802,Food/Beverage,82831,Fruits - Unprepared/Unprocessed (Fresh),82926,Fruits - Unprepared/Unprocessed (Fresh) Variety Packs,83505,Berries: Berries Other: Berries Other Loose
+82802,Food/Beverage,82831,Fruits - Unprepared/Unprocessed (Fresh),82926,Fruits - Unprepared/Unprocessed (Fresh) Variety Packs,83506,Berries: Berries Other: Berries Other Packaged
+82802,Food/Beverage,82831,Fruits - Unprepared/Unprocessed (Fresh),82926,Fruits - Unprepared/Unprocessed (Fresh) Variety Packs,83588,Citrus Fruit: Citrus Other: Citrus Other Loose
+82802,Food/Beverage,82831,Fruits - Unprepared/Unprocessed (Fresh),82926,Fruits - Unprepared/Unprocessed (Fresh) Variety Packs,83589,Citrus Fruit: Citrus Other: Citrus Other Packaged
+82802,Food/Beverage,82831,Fruits - Unprepared/Unprocessed (Fresh),82926,Fruits - Unprepared/Unprocessed (Fresh) Variety Packs,84164,Tropical Fruit: Tropical Fruit Other
+82802,Food/Beverage,82831,Fruits - Unprepared/Unprocessed (Fresh),82948,Kiwifruits,83853,Kiwifruits
+82802,Food/Beverage,82831,Fruits - Unprepared/Unprocessed (Fresh),82962,Miscellaneous Fruit,83612,Fresh Dates
+82802,Food/Beverage,82831,Fruits - Unprepared/Unprocessed (Fresh),82962,Miscellaneous Fruit,83673,Figs
+82802,Food/Beverage,82831,Fruits - Unprepared/Unprocessed (Fresh),82962,Miscellaneous Fruit,83871,Mangos
+82802,Food/Beverage,82831,Fruits - Unprepared/Unprocessed (Fresh),82962,Miscellaneous Fruit,83984,Pomegranates
+82802,Food/Beverage,82831,Fruits - Unprepared/Unprocessed (Fresh),82976,Papayas,83471,Babacos
+82802,Food/Beverage,82831,Fruits - Unprepared/Unprocessed (Fresh),82989,Pineapples,83981,Pineapples
+82802,Food/Beverage,82831,Fruits - Unprepared/Unprocessed (Fresh),82990,Pome Fruits,83457,Apples
+82802,Food/Beverage,82831,Fruits - Unprepared/Unprocessed (Fresh),82990,Pome Fruits,83958,Pears
+82802,Food/Beverage,82831,Fruits - Unprepared/Unprocessed (Fresh),83009,Stone Fruit,83458,Apricots
+82802,Food/Beverage,82831,Fruits - Unprepared/Unprocessed (Fresh),83009,Stone Fruit,83904,Nectarines
+82802,Food/Beverage,82831,Fruits - Unprepared/Unprocessed (Fresh),83009,Stone Fruit,83957,Peaches
+82802,Food/Beverage,82831,Fruits - Unprepared/Unprocessed (Fresh),83009,Stone Fruit,83982,Plums
+82802,Food/Beverage,82831,Fruits - Unprepared/Unprocessed (Fresh),83009,Stone Fruit,84131,Stemless/Sweet Cherries
+82802,Food/Beverage,82832,Fruits/Vegetables/Nuts/Seeds Prepared/Processed,82925,Fruit - Prepared/Processed,83724,Fruit - Prepared/Processed (Frozen)
+82802,Food/Beverage,82832,Fruits/Vegetables/Nuts/Seeds Prepared/Processed,82925,Fruit - Prepared/Processed,83725,Fruit - Prepared/Processed (Perishable)
+82802,Food/Beverage,82832,Fruits/Vegetables/Nuts/Seeds Prepared/Processed,82925,Fruit - Prepared/Processed,87466,Fruit - Sides and Salads (Perishable)
+82802,Food/Beverage,82832,Fruits/Vegetables/Nuts/Seeds Prepared/Processed,82925,Fruit - Prepared/Processed,83727,Dried Fruit - In House Packaged & Bulk Bin (Shelf Stable)
+82802,Food/Beverage,82832,Fruits/Vegetables/Nuts/Seeds Prepared/Processed,82925,Fruit - Prepared/Processed,83726,Dried Fruit - Vendor Packaged (Shelf Stable)
+82802,Food/Beverage,82832,Fruits/Vegetables/Nuts/Seeds Prepared/Processed,82925,Fruit - Prepared/Processed,83579,Dried Fruit Further Processed - Vendor Packaged (Shelf Stable)
+82802,Food/Beverage,82832,Fruits/Vegetables/Nuts/Seeds Prepared/Processed,82925,Fruit - Prepared/Processed,84090,Fruit - Prepared/Processed (Shelf Stable)
+82802,Food/Beverage,82832,Fruits/Vegetables/Nuts/Seeds Prepared/Processed,86124,Fruits/Nuts/Seeds Combination,86134,Trail Mix - In House Packaged & Bulk Bin
+82802,Food/Beverage,82832,Fruits/Vegetables/Nuts/Seeds Prepared/Processed,86124,Fruits/Nuts/Seeds Combination,86135,Trail Mix - Vendor Packaged
+82802,Food/Beverage,82832,Fruits/Vegetables/Nuts/Seeds Prepared/Processed,82927,Fruits/Vegetables/Nuts/Seeds Variety Packs,83735,Fruit Other
+82802,Food/Beverage,82832,Fruits/Vegetables/Nuts/Seeds Prepared/Processed,82927,Fruits/Vegetables/Nuts/Seeds Variety Packs,120300,Gift Set Single Team
+82802,Food/Beverage,82832,Fruits/Vegetables/Nuts/Seeds Prepared/Processed,82927,Fruits/Vegetables/Nuts/Seeds Variety Packs,83923,Other
+82802,Food/Beverage,82832,Fruits/Vegetables/Nuts/Seeds Prepared/Processed,82927,Fruits/Vegetables/Nuts/Seeds Variety Packs,84179,Value Added: VA Other
+82802,Food/Beverage,82832,Fruits/Vegetables/Nuts/Seeds Prepared/Processed,82967,Nuts/Seeds - Prepared/Processed,97074,Processed Nuts/Seeds - Vendor Packaged
+82802,Food/Beverage,82832,Fruits/Vegetables/Nuts/Seeds Prepared/Processed,82967,Nuts/Seeds - Prepared/Processed,84111,Nuts/Seeds - Artisanal - Vendor and In House Packaged (Shelf Stable)
+82802,Food/Beverage,82832,Fruits/Vegetables/Nuts/Seeds Prepared/Processed,82967,Nuts/Seeds - Prepared/Processed,83908,Nuts/Seeds - In House Packaged & Bulk Bin (Shelf Stable)
+82802,Food/Beverage,82832,Fruits/Vegetables/Nuts/Seeds Prepared/Processed,82967,Nuts/Seeds - Prepared/Processed,83907,Nuts/Seeds - Vendor Packaged (Shelf Stable)
+82802,Food/Beverage,82832,Fruits/Vegetables/Nuts/Seeds Prepared/Processed,82967,Nuts/Seeds - Prepared/Processed,96984,Vendor Packaged Whole and Processed Seeds (Flax
+82802,Food/Beverage,82832,Fruits/Vegetables/Nuts/Seeds Prepared/Processed,83019,Vegetables - Prepared/Processed,84194,Vegetables - Prepared/Processed (Frozen)
+82802,Food/Beverage,82832,Fruits/Vegetables/Nuts/Seeds Prepared/Processed,83019,Vegetables - Prepared/Processed,84195,Vegetables - Prepared/Processed (Perishable)
+82802,Food/Beverage,82832,Fruits/Vegetables/Nuts/Seeds Prepared/Processed,83019,Vegetables - Prepared/Processed,84196,Vegetables - Prepared/Processed (Perishable)
+82802,Food/Beverage,82832,Fruits/Vegetables/Nuts/Seeds Prepared/Processed,83019,Vegetables - Prepared/Processed,84197,Vegetables - Prepared/Processed (Perishable)
+82802,Food/Beverage,82832,Fruits/Vegetables/Nuts/Seeds Prepared/Processed,83019,Vegetables - Prepared/Processed,87440,Dried Vegetables and Mushroom Don't Use
+82802,Food/Beverage,82832,Fruits/Vegetables/Nuts/Seeds Prepared/Processed,83019,Vegetables - Prepared/Processed,87439,Dried Vegetables and Mushrooms - In House Packaged
+82802,Food/Beverage,82832,Fruits/Vegetables/Nuts/Seeds Prepared/Processed,83019,Vegetables - Prepared/Processed,85964,Dried Vegetables and Mushrooms - In House Packaged & Bulk Bin (Shelf Stable)
+82802,Food/Beverage,82832,Fruits/Vegetables/Nuts/Seeds Prepared/Processed,83019,Vegetables - Prepared/Processed,84198,Dried Vegetables and Mushrooms - Vendor Packaged (Shelf Stable)
+82802,Food/Beverage,82841,Leaf Vegetables - Unprepared/Unprocessed (Fresh),82938,Head Lettuce,83495,Leaf Lettuces - Includes Green
+82802,Food/Beverage,82841,Leaf Vegetables - Unprepared/Unprocessed (Fresh),82938,Head Lettuce,84018,Romaine (Cos) Lettuce
+82802,Food/Beverage,82841,Leaf Vegetables - Unprepared/Unprocessed (Fresh),82953,Leaf Vegetables - Unprepared/Unprocessed Variety Packs,83865,Lettuces Other
+82802,Food/Beverage,82841,Leaf Vegetables - Unprepared/Unprocessed (Fresh),82953,Leaf Vegetables - Unprepared/Unprocessed Variety Packs,84028,Salad Clamshells
+82802,Food/Beverage,82841,Leaf Vegetables - Unprepared/Unprocessed (Fresh),82953,Leaf Vegetables - Unprepared/Unprocessed Variety Packs,84029,Salad Greens Bags
+82802,Food/Beverage,82841,Leaf Vegetables - Unprepared/Unprocessed (Fresh),82953,Leaf Vegetables - Unprepared/Unprocessed Variety Packs,83436,Salad Greens Bulk
+82802,Food/Beverage,82841,Leaf Vegetables - Unprepared/Unprocessed (Fresh),82954,Loose Leaf/Multileaf Salad Greens,83869,Loose Leaf/Multileaf Lettuce Other
+82802,Food/Beverage,82842,Meat/Poultry,82956,Meat/Poultry - Prepared/Processed,83451,Alternative Meat/Poultry Species - Prepared/Processed
+82802,Food/Beverage,82842,Meat/Poultry,82956,Meat/Poultry - Prepared/Processed,83895,Miscellaneous: Catering
+82802,Food/Beverage,82842,Meat/Poultry,82956,Meat/Poultry - Prepared/Processed,83935,Oven Ready - ABF: Other
+82802,Food/Beverage,82842,Meat/Poultry,82956,Meat/Poultry - Prepared/Processed,84068,Smokehouse(In Store): Other
+82802,Food/Beverage,82842,Meat/Poultry,82956,Meat/Poultry - Prepared/Processed,84069,Smokehouse(In Store): Sides
+82802,Food/Beverage,82842,Meat/Poultry,82956,Meat/Poultry - Prepared/Processed,84055,Beef - Bulk for Slicing
+82802,Food/Beverage,82842,Meat/Poultry,82956,Meat/Poultry - Prepared/Processed,83498,Beef - Prepared/Processed
+82802,Food/Beverage,82842,Meat/Poultry,82956,Meat/Poultry - Prepared/Processed,87338,Beef Based Products - Entrees and Salad (Perishable)
+82802,Food/Beverage,82842,Meat/Poultry,82956,Meat/Poultry - Prepared/Processed,83433,Jerky Snacks Beef - Made In House
+82802,Food/Beverage,82842,Meat/Poultry,82956,Meat/Poultry - Prepared/Processed,84303,Jerky Snacks Beef - Packaged
+82802,Food/Beverage,82842,Meat/Poultry,82956,Meat/Poultry - Prepared/Processed,84063,Vendor Packaged Sliced Beef & Salami Chubs
+82802,Food/Beverage,82842,Meat/Poultry,82956,Meat/Poultry - Prepared/Processed,85946,Bison/Buffalo - Bulk for Slicing
+82802,Food/Beverage,82842,Meat/Poultry,82956,Meat/Poultry - Prepared/Processed,83511,Bison/Buffalo - Prepared/Processed
+82802,Food/Beverage,82842,Meat/Poultry,82956,Meat/Poultry - Prepared/Processed,87337,Bison/Buffalo Based Products - Entrees and Salads (Perishable)
+82802,Food/Beverage,82842,Meat/Poultry,82956,Meat/Poultry - Prepared/Processed,85945,Vendor Packaged Sliced Bison/Buffalo & Salami Chubs
+82802,Food/Beverage,82842,Meat/Poultry,82956,Meat/Poultry - Prepared/Processed,84059,Chicken - Bulk for Slicing
+82802,Food/Beverage,82842,Meat/Poultry,82956,Meat/Poultry - Prepared/Processed,83573,Chicken - Prepared/Processed
+82802,Food/Beverage,82842,Meat/Poultry,82956,Meat/Poultry - Prepared/Processed,87336,Chicken Based Products - Entrees and Salads (Perishable)
+82802,Food/Beverage,82842,Meat/Poultry,82956,Meat/Poultry - Prepared/Processed,85947,Vendor Packaged Sliced Chicken & Salami Chubs
+82802,Food/Beverage,82842,Meat/Poultry,82956,Meat/Poultry - Prepared/Processed,83649,Duck - Prepared/Processed
+82802,Food/Beverage,82842,Meat/Poultry,82956,Meat/Poultry - Prepared/Processed,87438,Duck Based Products - Entrees and Salads (Perishable)
+82802,Food/Beverage,82842,Meat/Poultry,82956,Meat/Poultry - Prepared/Processed,83746,Goat - Prepared/Processed
+82802,Food/Beverage,82842,Meat/Poultry,82956,Meat/Poultry - Prepared/Processed,83748,Goose - Prepared/Processed
+82802,Food/Beverage,82842,Meat/Poultry,82956,Meat/Poultry - Prepared/Processed,83854,Lamb - Prepared/Processed
+82802,Food/Beverage,82842,Meat/Poultry,82956,Meat/Poultry - Prepared/Processed,87335,Lamb Based Products - Entrees and Salads (Perishable)
+82802,Food/Beverage,82842,Meat/Poultry,82956,Meat/Poultry - Prepared/Processed,87334,Mixed Meat Based Products - Entrees and Salads (Perishable)
+82802,Food/Beverage,82842,Meat/Poultry,82956,Meat/Poultry - Prepared/Processed,86133,Mixed Species Meat - Bulk for Slicing
+82802,Food/Beverage,82842,Meat/Poultry,82956,Meat/Poultry - Prepared/Processed,86136,Vendor Packaged Sliced Mixed Species Meat & Salami Chubs
+82802,Food/Beverage,82842,Meat/Poultry,82956,Meat/Poultry - Prepared/Processed,83987,Non-Deli Meats (Bacon
+82802,Food/Beverage,82842,Meat/Poultry,82956,Meat/Poultry - Prepared/Processed,83986,Pork - Prepared/Processed
+82802,Food/Beverage,82842,Meat/Poultry,82956,Meat/Poultry - Prepared/Processed,84056,Pork & Ham - Bulk for Slicing
+82802,Food/Beverage,82842,Meat/Poultry,82956,Meat/Poultry - Prepared/Processed,84027,Pork Based Products - Entrees and Salads (Perishable)
+82802,Food/Beverage,82842,Meat/Poultry,82956,Meat/Poultry - Prepared/Processed,84067,Vendor Packaged Sliced Pork & Ham & Salami Chubs
+82802,Food/Beverage,82842,Meat/Poultry,82956,Meat/Poultry - Prepared/Processed,84002,Quail - Prepared/Processed
+82802,Food/Beverage,82842,Meat/Poultry,82956,Meat/Poultry - Prepared/Processed,84058,Turkey - Bulk for Slicing
+82802,Food/Beverage,82842,Meat/Poultry,82956,Meat/Poultry - Prepared/Processed,84169,Turkey - Prepared/Processed
+82802,Food/Beverage,82842,Meat/Poultry,82956,Meat/Poultry - Prepared/Processed,84170,Turkey Based Products - Entrees and Salads (Perishable)
+82802,Food/Beverage,82842,Meat/Poultry,82956,Meat/Poultry - Prepared/Processed,85948,Vendor Packaged Sliced Turkey & Salami Chubs
+82802,Food/Beverage,82842,Meat/Poultry,82956,Meat/Poultry - Prepared/Processed,84180,Veal - Prepared/Processed
+82802,Food/Beverage,82842,Meat/Poultry,82957,Meat/Poultry - Unprepared/Unprocessed,83452,Alternative Meat/Poultry Species - Unprepared/Unprocessed
+82802,Food/Beverage,82842,Meat/Poultry,82957,Meat/Poultry - Unprepared/Unprocessed,83891,Miscellaneous
+82802,Food/Beverage,82842,Meat/Poultry,82957,Meat/Poultry - Unprepared/Unprocessed,97778,Pet Food In House Made (Perisable)
+82802,Food/Beverage,82842,Meat/Poultry,82957,Meat/Poultry - Unprepared/Unprocessed,84167,Turducken: Breast
+82802,Food/Beverage,82842,Meat/Poultry,82957,Meat/Poultry - Unprepared/Unprocessed,84168,Turducken: Whole
+82802,Food/Beverage,82842,Meat/Poultry,82957,Meat/Poultry - Unprepared/Unprocessed,83500,Beef - Unprepared/Unprocessed
+82802,Food/Beverage,82842,Meat/Poultry,82957,Meat/Poultry - Unprepared/Unprocessed,83512,Bison/Buffalo - Unprepared/Unprocessed
+82802,Food/Beverage,82842,Meat/Poultry,82957,Meat/Poultry - Unprepared/Unprocessed,83574,Chicken - Unprepared/Unprocessed
+82802,Food/Beverage,82842,Meat/Poultry,82957,Meat/Poultry - Unprepared/Unprocessed,83650,Duck - Unprepared/Unprocessed
+82802,Food/Beverage,82842,Meat/Poultry,82957,Meat/Poultry - Unprepared/Unprocessed,83747,Goat - Unprepared/Unprocessed
+82802,Food/Beverage,82842,Meat/Poultry,82957,Meat/Poultry - Unprepared/Unprocessed,83749,Goose - Unprepared/Unprocessed
+82802,Food/Beverage,82842,Meat/Poultry,82957,Meat/Poultry - Unprepared/Unprocessed,83759,Guinea Fowl - Unprepared/Unprocessed
+82802,Food/Beverage,82842,Meat/Poultry,82957,Meat/Poultry - Unprepared/Unprocessed,83855,Lamb - Unprepared/Unprocessed
+82802,Food/Beverage,82842,Meat/Poultry,82957,Meat/Poultry - Unprepared/Unprocessed,83976,Pheasant - Unprepared/Unprocessed
+82802,Food/Beverage,82842,Meat/Poultry,82957,Meat/Poultry - Unprepared/Unprocessed,83988,Pork - Unprepared/Unprocessed
+82802,Food/Beverage,82842,Meat/Poultry,82957,Meat/Poultry - Unprepared/Unprocessed,84003,Quail - Unprepared/Unprocessed
+82802,Food/Beverage,82842,Meat/Poultry,82957,Meat/Poultry - Unprepared/Unprocessed,84127,Squab/Pigeon - Unprepared/Unprocessed
+82802,Food/Beverage,82842,Meat/Poultry,82957,Meat/Poultry - Unprepared/Unprocessed,84171,Turkey - Unprepared/Unprocessed
+82802,Food/Beverage,82842,Meat/Poultry,82957,Meat/Poultry - Unprepared/Unprocessed,84181,Veal - Unprepared/Unprocessed
+82802,Food/Beverage,82842,Meat/Poultry,82958,Meat/Poultry Sausages - Prepared/Processed,83501,Beef Sausages - Prepared/Processed
+82802,Food/Beverage,82842,Meat/Poultry,82958,Meat/Poultry Sausages - Prepared/Processed,83575,Chicken Sausages - Prepared/Processed
+82802,Food/Beverage,82842,Meat/Poultry,82958,Meat/Poultry Sausages - Prepared/Processed,83856,Lamb/Mutton Sausages - Prepared/Processed
+82802,Food/Beverage,82842,Meat/Poultry,82958,Meat/Poultry Sausages - Prepared/Processed,83899,Mixed Species Sausages - Prepared/Processed
+82802,Food/Beverage,82842,Meat/Poultry,82958,Meat/Poultry Sausages - Prepared/Processed,83989,Pork Sausages - Prepared/Processed
+82802,Food/Beverage,82842,Meat/Poultry,82958,Meat/Poultry Sausages - Prepared/Processed,84172,Turkey Sausages - Prepared/Processed
+82802,Food/Beverage,82842,Meat/Poultry,82958,Meat/Poultry Sausages - Prepared/Processed,84182,Veal Sausages - Prepared/Processed
+82802,Food/Beverage,82843,Milk/Butter/Cream/Yogurts/Cheese/Eggs/Substitutes,82893,Butter/Butter Substitutes,83531,Butter/Butter Substitutes (Perishable)
+82802,Food/Beverage,82843,Milk/Butter/Cream/Yogurts/Cheese/Eggs/Substitutes,82893,Butter/Butter Substitutes,83532,Butter/Butter Substitutes (Perishable)
+82802,Food/Beverage,82843,Milk/Butter/Cream/Yogurts/Cheese/Eggs/Substitutes,82894,Cheese/Cheese Substitutes,85944,Cheese - Bulk for Slicing
+82802,Food/Beverage,82843,Milk/Butter/Cream/Yogurts/Cheese/Eggs/Substitutes,82894,Cheese/Cheese Substitutes,83552,Cheese (excludes Bulk for Slicing and Cheese Substitutes)
+82802,Food/Beverage,82843,Milk/Butter/Cream/Yogurts/Cheese/Eggs/Substitutes,82894,Cheese/Cheese Substitutes,97149,Cheese Substitues (Non-Dairy made with Cultures)
+82802,Food/Beverage,82843,Milk/Butter/Cream/Yogurts/Cheese/Eggs/Substitutes,82894,Cheese/Cheese Substitutes,83553,Cheese Substitutes (Non-Dairy)
+82802,Food/Beverage,82843,Milk/Butter/Cream/Yogurts/Cheese/Eggs/Substitutes,82894,Cheese/Cheese Substitutes,120293,Gift Set Single Team
+82802,Food/Beverage,82843,Milk/Butter/Cream/Yogurts/Cheese/Eggs/Substitutes,86126,Cream/Cream Substitutes,98255,Cream/Cream Substitutes (Perishable)
+82802,Food/Beverage,82843,Milk/Butter/Cream/Yogurts/Cheese/Eggs/Substitutes,86126,Cream/Cream Substitutes,86132,Cream/Cream Substitutes (Perishable)
+82802,Food/Beverage,82843,Milk/Butter/Cream/Yogurts/Cheese/Eggs/Substitutes,82912,Eggs/Eggs Substitutes,83653,Eggs Products/Substitutes
+82802,Food/Beverage,82843,Milk/Butter/Cream/Yogurts/Cheese/Eggs/Substitutes,82912,Eggs/Eggs Substitutes,83837,In Shell Table Eggs
+82802,Food/Beverage,82843,Milk/Butter/Cream/Yogurts/Cheese/Eggs/Substitutes,82912,Eggs/Eggs Substitutes,83838,In Shell Table Eggs
+82802,Food/Beverage,82843,Milk/Butter/Cream/Yogurts/Cheese/Eggs/Substitutes,82961,Milk/Milk Substitutes,83885,Milk/Milk Substitutes (Perishable)
+82802,Food/Beverage,82843,Milk/Butter/Cream/Yogurts/Cheese/Eggs/Substitutes,82961,Milk/Milk Substitutes,83886,Milk/Milk Substitutes (Shelf Stable)
+82802,Food/Beverage,82843,Milk/Butter/Cream/Yogurts/Cheese/Eggs/Substitutes,83026,Yogurt/Yogurt Substitutes,84223,Yogurt/Yogurt Substitutes (Frozen)
+82802,Food/Beverage,82843,Milk/Butter/Cream/Yogurts/Cheese/Eggs/Substitutes,83026,Yogurt/Yogurt Substitutes,84224,Yogurt/Yogurt Substitutes (Perishable)
+82802,Food/Beverage,82847,Oils/Fats Edible,97065,Fats Edible,97075,Animal Fats Edible 2300
+82802,Food/Beverage,82847,Oils/Fats Edible,82970,Oils Edible,83914,Oils Edible - Vegetable or Plant (Shelf Stable)
+82802,Food/Beverage,82847,Oils/Fats Edible,82970,Oils Edible,83913,Oils Edible - Vegetable or Plant (Shelf Stable) - In House Packaged and Bulk Bin
+82802,Food/Beverage,82847,Oils/Fats Edible,82970,Oils Edible,83912,Oils Edible - Vegetable or Plant (Shelf Stable) - Vendor Packaged
+82802,Food/Beverage,82847,Oils/Fats Edible,84288,Oils/Fats Edible Variety Packs,84307,Oils/Fats Edible - Refrigerated - Includes Flax and Chia (Perishable)
+82802,Food/Beverage,82853,Prepared/Preserved Foods,82877,Baby/Infant - Foods/Beverages,83483,Baby/Infant - Formula (Shelf Stable)
+82802,Food/Beverage,82853,Prepared/Preserved Foods,82877,Baby/Infant - Foods/Beverages,83484,Baby/Infant - Specialised Beverages (Shelf Stable)
+82802,Food/Beverage,82853,Prepared/Preserved Foods,82877,Baby/Infant - Foods/Beverages,83485,Baby/Infant - Specialised Foods (Frozen)
+82802,Food/Beverage,82853,Prepared/Preserved Foods,82877,Baby/Infant - Foods/Beverages,83486,Baby/Infant - Specialised Foods (Frozen)
+82802,Food/Beverage,82853,Prepared/Preserved Foods,82877,Baby/Infant - Foods/Beverages,83487,Baby/Infant - Specialised Foods (Shelf Stable)
+82802,Food/Beverage,82853,Prepared/Preserved Foods,82907,Dairy/Egg Based Products,89188,Dairy/Egg Based Products _ Ready to Eat (Perishable)
+82802,Food/Beverage,82853,Prepared/Preserved Foods,82907,Dairy/Egg Based Products,83651,Egg Based Products - Not Ready to Eat (Perishable)
+82802,Food/Beverage,82853,Prepared/Preserved Foods,82907,Dairy/Egg Based Products,83652,Egg Based Products - Not Ready to Eat (Perishable)
+82802,Food/Beverage,82853,Prepared/Preserved Foods,82908,Desserts/Dessert Sauces/Toppings,83616,Dessert Sauces/Toppings/Fillings (Perishable)
+82802,Food/Beverage,82853,Prepared/Preserved Foods,82908,Desserts/Dessert Sauces/Toppings,83617,Dessert Sauces/Toppings/Fillings (Perishable)
+82802,Food/Beverage,82853,Prepared/Preserved Foods,82908,Desserts/Dessert Sauces/Toppings,96991,Vendor Packaged Ready to Bake Baked Good
+82802,Food/Beverage,82853,Prepared/Preserved Foods,82908,Desserts/Dessert Sauces/Toppings,83618,Dessert Sauces/Toppings/Fillings (Shelf Stable)
+82802,Food/Beverage,82853,Prepared/Preserved Foods,82908,Desserts/Dessert Sauces/Toppings,84088,Dessert Sauces/Toppings/Fillings (Shelf Stable)
+82802,Food/Beverage,82853,Prepared/Preserved Foods,82908,Desserts/Dessert Sauces/Toppings,83619,Desserts - Frozen Vendor Packaged
+82802,Food/Beverage,82853,Prepared/Preserved Foods,82908,Desserts/Dessert Sauces/Toppings,96961,Desserts - In House Frozen Treats & Desserts (includes Gluten Free)
+82802,Food/Beverage,82853,Prepared/Preserved Foods,82908,Desserts/Dessert Sauces/Toppings,87465,Desserts - Made In House
+82802,Food/Beverage,82853,Prepared/Preserved Foods,82908,Desserts/Dessert Sauces/Toppings,83620,Desserts - Refrigerated In House
+82802,Food/Beverage,82853,Prepared/Preserved Foods,82908,Desserts/Dessert Sauces/Toppings,83622,Desserts - Refrigerated Vendor Packaged
+82802,Food/Beverage,82853,Prepared/Preserved Foods,82908,Desserts/Dessert Sauces/Toppings,83623,Desserts - Shelf Stable Vendor Packaged
+82802,Food/Beverage,82853,Prepared/Preserved Foods,82908,Desserts/Dessert Sauces/Toppings,83835,Ice Cream/Ice Novelties (Frozen)
+82802,Food/Beverage,82853,Prepared/Preserved Foods,82908,Desserts/Dessert Sauces/Toppings,83836,Ice Cream/Ice Novelties (Frozen)
+82802,Food/Beverage,82853,Prepared/Preserved Foods,82908,Desserts/Dessert Sauces/Toppings,84301,Ice Cream/Ice Novelties (Made In House)
+82802,Food/Beverage,82853,Prepared/Preserved Foods,82911,Dough Based Products,96964,Asian Noodle and Eggroll Wrappers
+82802,Food/Beverage,82853,Prepared/Preserved Foods,82911,Dough Based Products,83634,Stuffed Pasta - Not Ready to Eat - Savoury (Perishable)
+82802,Food/Beverage,82853,Prepared/Preserved Foods,82911,Dough Based Products,83635,Pasta and Stuffed Pasta Entrees and Salad - Ready to Eat - Savoury (Perishable)
+82802,Food/Beverage,82853,Prepared/Preserved Foods,82911,Dough Based Products,86144,Stuffed Pasta - Not Ready to Eat - Savoury (Frozen)
+82802,Food/Beverage,82853,Prepared/Preserved Foods,82932,Grain Based Products,83750,Grain Based Products - Not Ready to Eat - Savoury (Perishable)
+82802,Food/Beverage,82853,Prepared/Preserved Foods,82955,Meat Substitutes,83878,Meat Substitute Based Products - Entrees and Salads (Perishable)
+82802,Food/Beverage,82853,Prepared/Preserved Foods,82955,Meat Substitutes,83877,Meat Substitutes - Refrigerated Vendor Packaged
+82802,Food/Beverage,82853,Prepared/Preserved Foods,82955,Meat Substitutes,83876,Meat Substitutes - Frozen Vendor Pacakaged
+82802,Food/Beverage,82853,Prepared/Preserved Foods,82955,Meat Substitutes,87624,Meat Substitutes (Shelf Stable)
+82802,Food/Beverage,82853,Prepared/Preserved Foods,82977,Pasta/Noodles,83950,Pasta/Noodles - Not Ready to Eat (Frozen)
+82802,Food/Beverage,82853,Prepared/Preserved Foods,82977,Pasta/Noodles,83951,Pasta/Noodles - Not Ready to Eat (Perishable)
+82802,Food/Beverage,82853,Prepared/Preserved Foods,82977,Pasta/Noodles,83952,Pasta/Noodles - Not Ready to Eat (Shelf Stable)
+82802,Food/Beverage,82853,Prepared/Preserved Foods,82977,Pasta/Noodles,83953,Pasta/Noodles - Not Ready to Eat (Shelf Stable)
+82802,Food/Beverage,82853,Prepared/Preserved Foods,82977,Pasta/Noodles,83954,Pasta/Noodles - Not Ready to Eat (Shelf Stable)
+82802,Food/Beverage,82853,Prepared/Preserved Foods,82977,Pasta/Noodles,83955,Pasta/Noodles - Ready to Eat (Perishable)
+82802,Food/Beverage,82853,Prepared/Preserved Foods,82991,Prepared Soups,84071,Soup Additions (includes Mixes
+82802,Food/Beverage,82853,Prepared/Preserved Foods,82991,Prepared Soups,84072,Soups - Prepared - Vendor Packaged (Frozen)
+82802,Food/Beverage,82853,Prepared/Preserved Foods,82991,Prepared Soups,84074,Soups - Prepared - Freshpack (Perishable)
+82802,Food/Beverage,82853,Prepared/Preserved Foods,82991,Prepared Soups,84075,Soups - Prepared - Soup Bar Hot (Perishable)
+82802,Food/Beverage,82853,Prepared/Preserved Foods,82991,Prepared Soups,84073,Soups - Prepared - Vendor Packaged Local (Perishable)
+82802,Food/Beverage,82853,Prepared/Preserved Foods,82991,Prepared Soups,84078,Soups - Mixes In House Packaged and Bulk Bin (Shelf Stable)
+82802,Food/Beverage,82853,Prepared/Preserved Foods,82991,Prepared Soups,84077,Soups - Prepared - Ready to Eat Cans and Jars (Shelf Stable)
+82802,Food/Beverage,82853,Prepared/Preserved Foods,82992,Prepared/Preserved Foods Variety Packs,83695,Appetizer Platters
+82802,Food/Beverage,82853,Prepared/Preserved Foods,82992,Prepared/Preserved Foods Variety Packs,83694,Appetizers
+82802,Food/Beverage,82853,Prepared/Preserved Foods,82992,Prepared/Preserved Foods Variety Packs,83456,Appetizers
+82802,Food/Beverage,82853,Prepared/Preserved Foods,82992,Prepared/Preserved Foods Variety Packs,84050,Asian Wraps
+82802,Food/Beverage,82853,Prepared/Preserved Foods,82992,Prepared/Preserved Foods Variety Packs,83464,Asian: Coconut Milk
+82802,Food/Beverage,82853,Prepared/Preserved Foods,82992,Prepared/Preserved Foods Variety Packs,83465,Asian: Macrobiotic
+82802,Food/Beverage,82853,Prepared/Preserved Foods,82992,Prepared/Preserved Foods Variety Packs,83466,Asian: Misc. Asian
+82802,Food/Beverage,82853,Prepared/Preserved Foods,82992,Prepared/Preserved Foods Variety Packs,83431,Asian: Noodles  Meal Kits & Bowls
+82802,Food/Beverage,82853,Prepared/Preserved Foods,82992,Prepared/Preserved Foods Variety Packs,83467,Asian: Rice Bowls
+82802,Food/Beverage,82853,Prepared/Preserved Foods,82992,Prepared/Preserved Foods Variety Packs,83696,Beverages
+82802,Food/Beverage,82853,Prepared/Preserved Foods,82992,Prepared/Preserved Foods Variety Packs,83539,Catering
+82802,Food/Beverage,82853,Prepared/Preserved Foods,82992,Prepared/Preserved Foods Variety Packs,83548,Center Plate: Meat
+82802,Food/Beverage,82853,Prepared/Preserved Foods,82992,Prepared/Preserved Foods Variety Packs,83549,Center Plate: Vegetarian
+82802,Food/Beverage,82853,Prepared/Preserved Foods,82992,Prepared/Preserved Foods Variety Packs,83603,Convenience
+82802,Food/Beverage,82853,Prepared/Preserved Foods,82992,Prepared/Preserved Foods Variety Packs,83656,Ethnic Misc. Ethnic
+82802,Food/Beverage,82853,Prepared/Preserved Foods,82992,Prepared/Preserved Foods Variety Packs,83693,Freshpack: 2 for Set
+82802,Food/Beverage,82853,Prepared/Preserved Foods,82992,Prepared/Preserved Foods Variety Packs,120299,Gift Set Single Team
+82802,Food/Beverage,82853,Prepared/Preserved Foods,82992,Prepared/Preserved Foods Variety Packs,120296,Gift Set Single Team
+82802,Food/Beverage,82853,Prepared/Preserved Foods,82992,Prepared/Preserved Foods Variety Packs,83781,Hispanic: Misc. Hispanic
+82802,Food/Beverage,82853,Prepared/Preserved Foods,82992,Prepared/Preserved Foods Variety Packs,83782,Hispanic: Peppers
+82802,Food/Beverage,82853,Prepared/Preserved Foods,82992,Prepared/Preserved Foods Variety Packs,83783,Hispanic: Taco Shells
+82802,Food/Beverage,82853,Prepared/Preserved Foods,82992,Prepared/Preserved Foods Variety Packs,83809,Hot Case/Venues: Innovation
+82802,Food/Beverage,82853,Prepared/Preserved Foods,82992,Prepared/Preserved Foods Variety Packs,83829,Hot Case/Venues: Pop Up: Lunch
+82802,Food/Beverage,82853,Prepared/Preserved Foods,82992,Prepared/Preserved Foods Variety Packs,83845,Jewish/Kosher
+82802,Food/Beverage,82853,Prepared/Preserved Foods,82992,Prepared/Preserved Foods Variety Packs,83846,Jewish/Kosher: Passover
+82802,Food/Beverage,82853,Prepared/Preserved Foods,82992,Prepared/Preserved Foods Variety Packs,83564,Meal Combos
+82802,Food/Beverage,82853,Prepared/Preserved Foods,82992,Prepared/Preserved Foods Variety Packs,83887,Misc. Breakfast
+82802,Food/Beverage,82853,Prepared/Preserved Foods,82992,Prepared/Preserved Foods Variety Packs,83888,Misc. East Indian
+82802,Food/Beverage,82853,Prepared/Preserved Foods,82992,Prepared/Preserved Foods Variety Packs,83898,Miscellanous
+82802,Food/Beverage,82853,Prepared/Preserved Foods,82992,Prepared/Preserved Foods Variety Packs,83925,Other (Shelf Stable)
+82802,Food/Beverage,82853,Prepared/Preserved Foods,82992,Prepared/Preserved Foods Variety Packs,97126,PFDS Innovations
+82802,Food/Beverage,82853,Prepared/Preserved Foods,82992,Prepared/Preserved Foods Variety Packs,83994,Prepared/Preserved Foods Variety Packs
+82802,Food/Beverage,82853,Prepared/Preserved Foods,82992,Prepared/Preserved Foods Variety Packs,84007,Restaurant: Beer/Wine Bar: Appetizer
+82802,Food/Beverage,82853,Prepared/Preserved Foods,82992,Prepared/Preserved Foods Variety Packs,84008,Restaurant: Beer/Wine Bar: Beverage
+82802,Food/Beverage,82853,Prepared/Preserved Foods,82992,Prepared/Preserved Foods Variety Packs,84010,Restaurant: Beer/Wine Bar: Salad
+82802,Food/Beverage,82853,Prepared/Preserved Foods,82992,Prepared/Preserved Foods Variety Packs,84011,Restaurant: Full Service: Appetizer
+82802,Food/Beverage,82853,Prepared/Preserved Foods,82992,Prepared/Preserved Foods Variety Packs,84012,Restaurant: Full Service: Beverage
+82802,Food/Beverage,82853,Prepared/Preserved Foods,82992,Prepared/Preserved Foods Variety Packs,84013,Restaurant: Full Service: Entree
+82802,Food/Beverage,82853,Prepared/Preserved Foods,82992,Prepared/Preserved Foods Variety Packs,84014,Restaurant: Full Service: Salad
+82802,Food/Beverage,82853,Prepared/Preserved Foods,82992,Prepared/Preserved Foods Variety Packs,84015,Restaurant: Tea Hive: Beverage
+82802,Food/Beverage,82853,Prepared/Preserved Foods,82992,Prepared/Preserved Foods Variety Packs,84025,Rotisserie: Sides
+82802,Food/Beverage,82853,Prepared/Preserved Foods,82992,Prepared/Preserved Foods Variety Packs,84026,RTE Entrees
+82802,Food/Beverage,82853,Prepared/Preserved Foods,82992,Prepared/Preserved Foods Variety Packs,84051,Side Dishes
+82802,Food/Beverage,82853,Prepared/Preserved Foods,82995,Sandwiches/Filled Rolls/Wraps,84031,Sandwiches/Filled Rolls/Wraps (Frozen)
+82802,Food/Beverage,82853,Prepared/Preserved Foods,82995,Sandwiches/Filled Rolls/Wraps,84033,Sandwiches/Filled Rolls/Wraps (Perishable)
+82802,Food/Beverage,82853,Prepared/Preserved Foods,83005,Snacks,83576,Chips/Crisps/Snack Mixes - Natural/Extruded (Shelf Stable)
+82802,Food/Beverage,82853,Prepared/Preserved Foods,83005,Snacks,83577,Chips/Crisps/Snack Mixes - Natural/Extruded (Shelf Stable)
+82802,Food/Beverage,82853,Prepared/Preserved Foods,83005,Snacks,83578,Chips/Crisps/Snack Mixes - Natural/Extruded (Shelf Stable)
+82802,Food/Beverage,82853,Prepared/Preserved Foods,83005,Snacks,83985,Popcorn (Shelf Stable)
+82802,Food/Beverage,82853,Prepared/Preserved Foods,83005,Snacks,83529,Bulk
+82802,Food/Beverage,82853,Prepared/Preserved Foods,83005,Snacks,83758,Grocery 1000
+82802,Food/Beverage,82853,Prepared/Preserved Foods,83013,Sweet Spreads,83438,Accoutrements: Honey
+82802,Food/Beverage,82853,Prepared/Preserved Foods,83013,Sweet Spreads,83790,Honey (Shelf Stable)
+82802,Food/Beverage,82853,Prepared/Preserved Foods,83013,Sweet Spreads,83442,Accoutrements: Artisan Jams/Marmalade (In House Packaged)
+82802,Food/Beverage,82853,Prepared/Preserved Foods,83013,Sweet Spreads,83843,Jams/Marmalades (Shelf Stable)
+82802,Food/Beverage,82853,Prepared/Preserved Foods,83018,Vegetable Based Products,84183,Vegetable Based Products - Not Ready to Eat (Frozen)
+82802,Food/Beverage,82853,Prepared/Preserved Foods,83018,Vegetable Based Products,84184,Vegetable Based Products - Not Ready to Eat (Perishable)
+82802,Food/Beverage,82853,Prepared/Preserved Foods,83018,Vegetable Based Products,84185,Vegetable Based Products - Not Ready to Eat (Shelf Stable)
+82802,Food/Beverage,82853,Prepared/Preserved Foods,83018,Vegetable Based Products,84186,Vegetable Based Products - Not Ready to Eat (Shelf Stable)
+82802,Food/Beverage,82853,Prepared/Preserved Foods,83018,Vegetable Based Products,84187,Vegetable Based Products - Not Ready to Eat (Shelf Stable)
+82802,Food/Beverage,82853,Prepared/Preserved Foods,83018,Vegetable Based Products,84188,Vegetable Based Products - Raw Entree
+82802,Food/Beverage,82853,Prepared/Preserved Foods,83018,Vegetable Based Products,84189,Vegetable Based Products - Ready to Eat (Perishable)
+82802,Food/Beverage,82853,Prepared/Preserved Foods,83018,Vegetable Based Products,84190,Vegetable Based Products - Sides and Salads
+82802,Food/Beverage,82853,Prepared/Preserved Foods,83018,Vegetable Based Products,84191,Vegetable Based Products - Ready to Eat (Shelf Stable)
+82802,Food/Beverage,82854,Seafood,82868,Aquatic Invertebrates - Prepared/Processed,83459,Aquatic Invertebrates - Prepared/Processed (Perishable)
+82802,Food/Beverage,82854,Seafood,82869,Aquatic Invertebrates - Unprepared/Unprocessed,83460,Aquatic Invertebrates - Unprepared/Unprocessed (Perishable)
+82802,Food/Beverage,82854,Seafood,82870,Aquatic Invertebrates/Fish/Shellfish/Seafood Combination,83461,Aquatic Invertebrates/Fish/Shellfish/Seafood Mixes - Unprepared/Unprocessed (Perishable)
+82802,Food/Beverage,82854,Seafood,82871,Aquatic Plants Prepared/Processed,83462,Aquatic Plants Prepared/Processed (Perishable)
+82802,Food/Beverage,82854,Seafood,82916,Fish - Prepared/Processed,83676,Fish - Prepared/Processed (Perishable)
+82802,Food/Beverage,82854,Seafood,82916,Fish - Prepared/Processed,87329,Fish Based Products - Entrees and Salads (Perishable)
+82802,Food/Beverage,82854,Seafood,82916,Fish - Prepared/Processed,84297,Fish Sticks (Perishable)
+82802,Food/Beverage,82854,Seafood,82916,Fish - Prepared/Processed,83945,Packaged: Caviar
+82802,Food/Beverage,82854,Seafood,82916,Fish - Prepared/Processed,83942,Packaged: Herring
+82802,Food/Beverage,82854,Seafood,82916,Fish - Prepared/Processed,83677,Fish - Prepared/Processed (Shelf Stable)
+82802,Food/Beverage,82854,Seafood,82917,Fish - Unprepared/Unprocessed,83678,Fish - Unprepared/Unprocessed (Perishable)
+82802,Food/Beverage,82854,Seafood,82998,Seafood Variety Packs,84174,Value Added: Seafood: Appetizer
+82802,Food/Beverage,82854,Seafood,82998,Seafood Variety Packs,84175,Value Added: Seafood: Meal
+82802,Food/Beverage,82854,Seafood,82998,Seafood Variety Packs,84176,Value Added: Seafood: Platter
+82802,Food/Beverage,82854,Seafood,82998,Seafood Variety Packs,84177,Value Added: Seafood: Sushi
+82802,Food/Beverage,82854,Seafood,82998,Seafood Variety Packs,84310,Value Added: Seafood: Sushi
+82802,Food/Beverage,82854,Seafood,82998,Seafood Variety Packs,84178,Value Added: Seafood: Venue
+82802,Food/Beverage,82854,Seafood,83000,Shellfish Prepared/Processed,87333,Shellfish Based Products - Entrees and Salads (Perishable)
+82802,Food/Beverage,82854,Seafood,83000,Shellfish Prepared/Processed,84045,Shellfish Prepared/Processed (Perishable)
+82802,Food/Beverage,82854,Seafood,83001,Shellfish Unprepared/Unprocessed,84043,Shellfish - Unprepared/Unprocessed (Frozen)
+82802,Food/Beverage,82854,Seafood,83001,Shellfish Unprepared/Unprocessed,84044,Shellfish - Unprepared/Unprocessed (Perishable)
+82802,Food/Beverage,82855,Seasonings/Preservatives/Extracts,82940,Herbs/Spices/Extracts,83658,Extracts/Salt/Meat Tenderisers (Shelf Stable)
+82802,Food/Beverage,82855,Seasonings/Preservatives/Extracts,82940,Herbs/Spices/Extracts,87435,Extracts/Seasonings/Flavor Enhancers (Shelf Stable)
+82802,Food/Beverage,82855,Seasonings/Preservatives/Extracts,82940,Herbs/Spices/Extracts,87452,Extracts/Seasonings/Flavor Enhancers (Shelf Stable)
+82802,Food/Beverage,82855,Seasonings/Preservatives/Extracts,82940,Herbs/Spices/Extracts,83659,Extracts/Seasonings/Flavor Enhancers (Shelf Stable)
+82802,Food/Beverage,82855,Seasonings/Preservatives/Extracts,82940,Herbs/Spices/Extracts,83660,Extracts/Seasonings/Flavor Enhancers (Shelf Stable)
+82802,Food/Beverage,82855,Seasonings/Preservatives/Extracts,82940,Herbs/Spices/Extracts,96982,Bulk Medicinal Herbs
+82802,Food/Beverage,82855,Seasonings/Preservatives/Extracts,82940,Herbs/Spices/Extracts,83776,Herbs/Spices (Shelf Stable)
+82802,Food/Beverage,82855,Seasonings/Preservatives/Extracts,82940,Herbs/Spices/Extracts,83777,Herbs/Spices (Shelf Stable)
+82802,Food/Beverage,82855,Seasonings/Preservatives/Extracts,82988,Pickles/Relishes/Chutneys/Olives,87625,Chutneys/Relishes (Perishable)
+82802,Food/Beverage,82855,Seasonings/Preservatives/Extracts,82988,Pickles/Relishes/Chutneys/Olives,83587,Chutneys/Relishes (Shelf Stable)
+82802,Food/Beverage,82855,Seasonings/Preservatives/Extracts,82988,Pickles/Relishes/Chutneys/Olives,87626,Olives (Perishable)
+82802,Food/Beverage,82855,Seasonings/Preservatives/Extracts,82988,Pickles/Relishes/Chutneys/Olives,83916,Olives (Shelf Stable)
+82802,Food/Beverage,82855,Seasonings/Preservatives/Extracts,82988,Pickles/Relishes/Chutneys/Olives,87628,Pickled
+82802,Food/Beverage,82855,Seasonings/Preservatives/Extracts,82988,Pickles/Relishes/Chutneys/Olives,87627,Pickled
+82802,Food/Beverage,82855,Seasonings/Preservatives/Extracts,82996,Sauces/Spreads/Dips/Condiments,85652,Dressings/Dips - Refrigerated In House (Excluding Guac/Salsa/Hummus)
+82802,Food/Beverage,82855,Seasonings/Preservatives/Extracts,82996,Sauces/Spreads/Dips/Condiments,83638,Dressings/Dips - Refrigerated Vendor Packaged (excluding Specialty/Butter Cheese Based)
+82802,Food/Beverage,82855,Seasonings/Preservatives/Extracts,82996,Sauces/Spreads/Dips/Condiments,83639,Dressings/Dips - Refrigerated Vendor Packaged
+82802,Food/Beverage,82855,Seasonings/Preservatives/Extracts,82996,Sauces/Spreads/Dips/Condiments,83637,Guacamole/Salsa - Refrigerated In House
+82802,Food/Beverage,82855,Seasonings/Preservatives/Extracts,82996,Sauces/Spreads/Dips/Condiments,84300,Hummus - Refrigerated In House
+82802,Food/Beverage,82855,Seasonings/Preservatives/Extracts,82996,Sauces/Spreads/Dips/Condiments,84265,Hummus - Refrigerated Vendor Packaged
+82802,Food/Beverage,82855,Seasonings/Preservatives/Extracts,82996,Sauces/Spreads/Dips/Condiments,83640,Dressings/Dips (Shelf Stable)
+82802,Food/Beverage,82855,Seasonings/Preservatives/Extracts,82996,Sauces/Spreads/Dips/Condiments,85649,Mayonnaise/Mayonnaise Substitutes (Perishable)
+82802,Food/Beverage,82855,Seasonings/Preservatives/Extracts,82996,Sauces/Spreads/Dips/Condiments,83872,Mayonnaise/Mayonnaise Substitutes (Shelf Stable)
+82802,Food/Beverage,82855,Seasonings/Preservatives/Extracts,82996,Sauces/Spreads/Dips/Condiments,83444,Accoutrements: Moustarde
+82802,Food/Beverage,82855,Seasonings/Preservatives/Extracts,82996,Sauces/Spreads/Dips/Condiments,83901,Mustard (Shelf Stable)
+82802,Food/Beverage,82855,Seasonings/Preservatives/Extracts,82996,Sauces/Spreads/Dips/Condiments,87330,Other Sauces Dipping/Condiments/Savoury Spreads/Marinades (Perishable)
+82802,Food/Beverage,82855,Seasonings/Preservatives/Extracts,82996,Sauces/Spreads/Dips/Condiments,83929,Other Sauces Dipping/Condiments/Savoury Toppings/Savoury Spreads/Marinades (Perishable)
+82802,Food/Beverage,82855,Seasonings/Preservatives/Extracts,82996,Sauces/Spreads/Dips/Condiments,84079,Accoutrements: Misc
+82802,Food/Beverage,82855,Seasonings/Preservatives/Extracts,82996,Sauces/Spreads/Dips/Condiments,84081,Accoutrements: Paste
+82802,Food/Beverage,82855,Seasonings/Preservatives/Extracts,82996,Sauces/Spreads/Dips/Condiments,83932,Other Sauces Dipping/Condiments/Savoury Toppings/Savoury Spreads/Marinades (Shelf Stable)
+82802,Food/Beverage,82855,Seasonings/Preservatives/Extracts,82996,Sauces/Spreads/Dips/Condiments,83933,Other Sauces Dipping/Condiments/Savoury Toppings/Savoury Spreads/Marinades (Shelf Stable)
+82802,Food/Beverage,82855,Seasonings/Preservatives/Extracts,82996,Sauces/Spreads/Dips/Condiments,83956,Pate (Perishable)
+82802,Food/Beverage,82855,Seasonings/Preservatives/Extracts,82996,Sauces/Spreads/Dips/Condiments,87463,Cooking Sauce and Gravies - Made In House (Perishable)
+82802,Food/Beverage,82855,Seasonings/Preservatives/Extracts,82996,Sauces/Spreads/Dips/Condiments,88669,Sauces - Cooking (perishable)
+82802,Food/Beverage,82855,Seasonings/Preservatives/Extracts,82996,Sauces/Spreads/Dips/Condiments,84034,Vendor Packaged Artisan Sauce - Cooking (Perishable)
+82802,Food/Beverage,82855,Seasonings/Preservatives/Extracts,82996,Sauces/Spreads/Dips/Condiments,84308,Vendor Packaged Sauce - Cooking (Perishable)
+82802,Food/Beverage,82855,Seasonings/Preservatives/Extracts,82996,Sauces/Spreads/Dips/Condiments,84035,Vendor Packaged Sauce - Cooking (Shelf Stable)
+82802,Food/Beverage,82855,Seasonings/Preservatives/Extracts,82996,Sauces/Spreads/Dips/Condiments,84158,Tomato Ketchup/Ketchup Substitutes (Shelf Stable)
+82802,Food/Beverage,82855,Seasonings/Preservatives/Extracts,83022,Vinegars/Cooking Wines,84203,Vinegars
+82802,Food/Beverage,82863,Vegetables - Unprepared/Unprocessed (Shelf Stable),83021,Vegetables - Unprepared/Unprocessed (Shelf Stable),84200,Vegetables - Unprepared/Unprocessed (Shelf Stable)
+82802,Food/Beverage,82863,Vegetables - Unprepared/Unprocessed (Shelf Stable),83021,Vegetables - Unprepared/Unprocessed (Shelf Stable),84201,Vegetables - Unprepared/Unprocessed (Shelf Stable)
+82802,Food/Beverage,82863,Vegetables - Unprepared/Unprocessed (Shelf Stable),83021,Vegetables - Unprepared/Unprocessed (Shelf Stable),84202,Vegetables - Unprepared/Unprocessed (Shelf Stable)
+82802,Food/Beverage,82864,Vegetables (Non Leaf) - Unprepared/Unprocessed (Fresh),82881,Beans (With Pods),83691,French/Wax Beans
+82802,Food/Beverage,82864,Vegetables (Non Leaf) - Unprepared/Unprocessed (Fresh),82889,Brassica Vegetables,83526,Broccoli
+82802,Food/Beverage,82864,Vegetables (Non Leaf) - Unprepared/Unprocessed (Fresh),82889,Brassica Vegetables,83527,Brussels Sprouts
+82802,Food/Beverage,82864,Vegetables (Non Leaf) - Unprepared/Unprocessed (Fresh),82889,Brassica Vegetables,83546,Cauliflower
+82802,Food/Beverage,82864,Vegetables (Non Leaf) - Unprepared/Unprocessed (Fresh),82889,Brassica Vegetables,87629,Kale
+82802,Food/Beverage,82864,Vegetables (Non Leaf) - Unprepared/Unprocessed (Fresh),82889,Brassica Vegetables,84207,White Cabbages
+82802,Food/Beverage,82864,Vegetables (Non Leaf) - Unprepared/Unprocessed (Fresh),82892,Bulb Vegetables,83737,Garlic
+82802,Food/Beverage,82864,Vegetables (Non Leaf) - Unprepared/Unprocessed (Fresh),82892,Bulb Vegetables,83917,Onions
+82802,Food/Beverage,82864,Vegetables (Non Leaf) - Unprepared/Unprocessed (Fresh),82904,Cucumbers,83609,Cucumbers
+82802,Food/Beverage,82864,Vegetables (Non Leaf) - Unprepared/Unprocessed (Fresh),82905,Cucurbits - Edible Peel,84129,Squash (Calabaza)
+82802,Food/Beverage,82864,Vegetables (Non Leaf) - Unprepared/Unprocessed (Fresh),82906,Cucurbits - Inedible Peel,84000,Pumpkins/Winter Squash
+82802,Food/Beverage,82864,Vegetables (Non Leaf) - Unprepared/Unprocessed (Fresh),82928,Fungi,83600,Common Cultivated Mushroom (Agaricus)
+82802,Food/Beverage,82864,Vegetables (Non Leaf) - Unprepared/Unprocessed (Fresh),82928,Fungi,84165,Truffles
+82802,Food/Beverage,82864,Vegetables (Non Leaf) - Unprepared/Unprocessed (Fresh),82939,Herbs,83672,Fennel  (Subspecies dulce)
+82802,Food/Beverage,82864,Vegetables (Non Leaf) - Unprepared/Unprocessed (Fresh),82939,Herbs,83774,Herbs Bunched
+82802,Food/Beverage,82864,Vegetables (Non Leaf) - Unprepared/Unprocessed (Fresh),82939,Herbs,83775,Herbs Packaged
+82802,Food/Beverage,82864,Vegetables (Non Leaf) - Unprepared/Unprocessed (Fresh),82959,Melons,83791,Honeydew
+82802,Food/Beverage,82864,Vegetables (Non Leaf) - Unprepared/Unprocessed (Fresh),82959,Melons,83928,Other Melons
+82802,Food/Beverage,82864,Vegetables (Non Leaf) - Unprepared/Unprocessed (Fresh),82960,Micro Vegetables,84126,Sprouts
+82802,Food/Beverage,82864,Vegetables (Non Leaf) - Unprepared/Unprocessed (Fresh),82975,Other Vegetables,83915,Okra
+82802,Food/Beverage,82864,Vegetables (Non Leaf) - Unprepared/Unprocessed (Fresh),82975,Other Vegetables,84148,Sweetcorn
+82802,Food/Beverage,82864,Vegetables (Non Leaf) - Unprepared/Unprocessed (Fresh),82978,Peas  (With Pods),83959,Peas
+82802,Food/Beverage,82864,Vegetables (Non Leaf) - Unprepared/Unprocessed (Fresh),82978,Peas  (With Pods),84070,Snow Peas
+82802,Food/Beverage,82864,Vegetables (Non Leaf) - Unprepared/Unprocessed (Fresh),82978,Peas  (With Pods),84139,Sugar Snap Peas
+82802,Food/Beverage,82864,Vegetables (Non Leaf) - Unprepared/Unprocessed (Fresh),82979,Peppers,83830,Hot Peppers
+82802,Food/Beverage,82864,Vegetables (Non Leaf) - Unprepared/Unprocessed (Fresh),82979,Peppers,84128,Square Sweet Peppers (Blunt)
+82802,Food/Beverage,82864,Vegetables (Non Leaf) - Unprepared/Unprocessed (Fresh),82994,Root/Tuber Vegetables,83538,Carrots
+82802,Food/Beverage,82864,Vegetables (Non Leaf) - Unprepared/Unprocessed (Fresh),82994,Root/Tuber Vegetables,83744,Ginger
+82802,Food/Beverage,82864,Vegetables (Non Leaf) - Unprepared/Unprocessed (Fresh),82994,Root/Tuber Vegetables,83990,Potatoes
+82802,Food/Beverage,82864,Vegetables (Non Leaf) - Unprepared/Unprocessed (Fresh),82994,Root/Tuber Vegetables,84147,Sweet Potatoes
+82802,Food/Beverage,82864,Vegetables (Non Leaf) - Unprepared/Unprocessed (Fresh),83006,Solanacea/Others,83469,Aubergines
+82802,Food/Beverage,82864,Vegetables (Non Leaf) - Unprepared/Unprocessed (Fresh),83008,Stem Vegetables,83468,Asparagus
+82802,Food/Beverage,82864,Vegetables (Non Leaf) - Unprepared/Unprocessed (Fresh),83008,Stem Vegetables,83547,Celery
+82802,Food/Beverage,82864,Vegetables (Non Leaf) - Unprepared/Unprocessed (Fresh),83008,Stem Vegetables,83745,Globe Artichokes
+82802,Food/Beverage,82864,Vegetables (Non Leaf) - Unprepared/Unprocessed (Fresh),83008,Stem Vegetables,83863,Leek
+82802,Food/Beverage,82864,Vegetables (Non Leaf) - Unprepared/Unprocessed (Fresh),83016,Tomatoes,83570,Cherry Tomatoes - Round
+82802,Food/Beverage,82864,Vegetables (Non Leaf) - Unprepared/Unprocessed (Fresh),83016,Tomatoes,84159,Tomatoes - Round
+82802,Food/Beverage,82864,Vegetables (Non Leaf) - Unprepared/Unprocessed (Fresh),83020,Vegetables - Unprepared/Unprocessed (Fresh) Variety Packs,83937,Oven Ready - ABF: Vegetable
+82802,Food/Beverage,82864,Vegetables (Non Leaf) - Unprepared/Unprocessed (Fresh),83020,Vegetables - Unprepared/Unprocessed (Fresh) Variety Packs,84019,Root Vegetables: Root Vegetables Bunched
+82802,Food/Beverage,82864,Vegetables (Non Leaf) - Unprepared/Unprocessed (Fresh),83020,Vegetables - Unprepared/Unprocessed (Fresh) Variety Packs,84020,Root Vegetables: Root Vegetables Loose
+82802,Food/Beverage,82864,Vegetables (Non Leaf) - Unprepared/Unprocessed (Fresh),83020,Vegetables - Unprepared/Unprocessed (Fresh) Variety Packs,84021,Root Vegetables: Root Vegetables Packaged
+82802,Food/Beverage,82864,Vegetables (Non Leaf) - Unprepared/Unprocessed (Fresh),83020,Vegetables - Unprepared/Unprocessed (Fresh) Variety Packs,84193,Vegetable Other
+82802,Food/Beverage,82864,Vegetables (Non Leaf) - Unprepared/Unprocessed (Fresh),83020,Vegetables - Unprepared/Unprocessed (Fresh) Variety Packs,84199,Vegetables - Unprepared/Unprocessed (Fresh) Variety Packs
+82803,Footwear,82830,Footwear,82930,General Purpose Footwear,84046,Shoes - General Purpose
+84281,Fuels/Gases,84284,Fuels/Fuel Additives,84287,Fuels/Ignition Aids,84296,Firelighting Tools/Matches
+84281,Fuels/Gases,84284,Fuels/Fuel Additives,84287,Fuels/Ignition Aids,84309,Solid Fuels
+82804,Healthcare,82828,Family Planning,82880,Barrier Contraception,83601,Condoms
+82804,Healthcare,82835,Health Enhancement,82909,Dietary Aids,83625,Dietary Aid - Appetite/Fat Control
+82804,Healthcare,82835,Health Enhancement,82909,Dietary Aids,83626,Dietary Aid - Energy Bars
+82804,Healthcare,82835,Health Enhancement,82909,Dietary Aids,83627,Dietary Aid - Protein & Superfood Powders
+82804,Healthcare,82835,Health Enhancement,82909,Dietary Aids,85647,Dietary Aid - Raw Energy Bars
+82804,Healthcare,82835,Health Enhancement,83023,Vitamins/Minerals/Nutritional Supplements,83906,Nutritional Supplements
+82804,Healthcare,82835,Health Enhancement,83023,Vitamins/Minerals/Nutritional Supplements,84204,Vitamins/Minerals
+82804,Healthcare,82836,Health Treatments/Aids,82885,Bladder/Genital/Rectal Products,83841,Intimate Lubrication
+82804,Healthcare,82836,Health Treatments/Aids,82885,Bladder/Genital/Rectal Products,84005,Rectal Medication
+82804,Healthcare,82836,Health Treatments/Aids,82915,First Aid,83674,First Aid - Dressings/Bandages/Plaster
+82804,Healthcare,82836,Health Treatments/Aids,82915,First Aid,83675,First Aid Lotions and Salves
+82804,Healthcare,82836,Health Treatments/Aids,82915,First Aid,83983,Poison Removal/Treatment Products
+82804,Healthcare,82836,Health Treatments/Aids,82915,First Aid,84132,Sterilisers/Surgical Spirits
+82804,Healthcare,82836,Health Treatments/Aids,82918,Flower/Homoeopathic/Homeopathic Remedies,83682,Flower/Homeopathic Remedies Other
+82804,Healthcare,82836,Health Treatments/Aids,82922,Foot/Leg Care/Treatments,83687,Foot Care/Hygiene Aids
+82804,Healthcare,82836,Health Treatments/Aids,82922,Foot/Leg Care/Treatments,83688,Foot/Leg Care/Treatments Other
+82804,Healthcare,82836,Health Treatments/Aids,87611,Respiratory/Allergy Products,87630,Chest Rubs
+82804,Healthcare,82836,Health Treatments/Aids,87611,Respiratory/Allergy Products,87631,Cold/Cough Remedies
+82804,Healthcare,82836,Health Treatments/Aids,87611,Respiratory/Allergy Products,87632,Throat Remedies
+82804,Healthcare,82836,Health Treatments/Aids,82999,Sensory Organs Care/Treatments,83661,Eye Preparations
+82804,Healthcare,82836,Health Treatments/Aids,82999,Sensory Organs Care/Treatments,83918,Optic Appliances - Spectacles - Ready To Wear
+82804,Healthcare,82836,Health Treatments/Aids,82999,Sensory Organs Care/Treatments,83919,Optic Appliances - Sunglasses - Ready To Wear
+82804,Healthcare,82836,Health Treatments/Aids,83004,Skin/Scalp Aid Products,83445,Acne/Rosacea Treatments
+82804,Healthcare,82836,Health Treatments/Aids,83004,Skin/Scalp Aid Products,83740,General/Multi Purpose Skin/Scalp Treatments
+82804,Healthcare,82836,Health Treatments/Aids,83004,Skin/Scalp Aid Products,83768,Hand Sanitizers / Antiseptics
+82805,Home Appliances,82857,Small Domestic Appliances,82920,Food/Beverage Preparation Appliances,83795,Hot Beverage Makers
+82805,Home Appliances,82857,Small Domestic Appliances,82920,Food/Beverage Preparation Appliances,83847,Juicers (Powered)
+82805,Home Appliances,82857,Small Domestic Appliances,82920,Food/Beverage Preparation Appliances,84222,Yogurt Makers
+82806,Household/Office Furniture/Furnishings,82827,Fabric/Textile Furnishings,82882,Bedding,83497,Bedding Other
+82806,Household/Office Furniture/Furnishings,82827,Fabric/Textile Furnishings,82913,Fabric/Textile Furnishings Variety Packs,83663,Textile Kitchen - Includes Towels
+82806,Household/Office Furniture/Furnishings,82827,Fabric/Textile Furnishings,82941,Household/Office Fabric/Textile Furnishings,83664,Fabric/Textile Towels
+82806,Household/Office Furniture/Furnishings,82837,Household/Office Furniture,82942,Household/Office Furniture Variety Packs,84298,Housewares: Misc Housewares
+82806,Household/Office Furniture/Furnishings,82837,Household/Office Furniture,82942,Household/Office Furniture Variety Packs,84299,Housewares: Other
+82806,Household/Office Furniture/Furnishings,82837,Household/Office Furniture,82942,Household/Office Furniture Variety Packs,83848,Kid's Accessories
+82806,Household/Office Furniture/Furnishings,82837,Household/Office Furniture,82942,Household/Office Furniture Variety Packs,83893,Miscellaneous Home Office
+82806,Household/Office Furniture/Furnishings,82837,Household/Office Furniture,82943,Household/Office Storage/Display Furniture/Screens,83831,Household/Office Boxes/Baskets
+82806,Household/Office Furniture/Furnishings,82848,Ornamental Furnishings,82973,Ornamental Furnishings Variety Packs,83784,Home Decor: Bath
+82806,Household/Office Furniture/Furnishings,82848,Ornamental Furnishings,82973,Ornamental Furnishings Variety Packs,83785,Home Decor: Kitchen
+82806,Household/Office Furniture/Furnishings,82848,Ornamental Furnishings,82973,Ornamental Furnishings Variety Packs,83786,Home Decor: Living
+82806,Household/Office Furniture/Furnishings,82848,Ornamental Furnishings,82973,Ornamental Furnishings Variety Packs,83787,Home Decor: Miscellaneous Home Decor
+82806,Household/Office Furniture/Furnishings,82848,Ornamental Furnishings,82974,Ornaments,83535,Candle Holders/Accessories
+82806,Household/Office Furniture/Furnishings,82848,Ornamental Furnishings,82974,Ornaments,83537,Candles and Candle Accessories
+82806,Household/Office Furniture/Furnishings,82848,Ornamental Furnishings,82974,Ornaments,83613,Decorative Magnets/Stickers/Window Clings
+82806,Household/Office Furniture/Furnishings,82848,Ornamental Furnishings,82974,Ornaments,83689,Fragrance Diffusers
+82806,Household/Office Furniture/Furnishings,82848,Ornamental Furnishings,82974,Ornaments,83922,Ornament Accessories
+82806,Household/Office Furniture/Furnishings,82848,Ornamental Furnishings,82974,Ornaments,83839,Incense
+82806,Household/Office Furniture/Furnishings,82848,Ornamental Furnishings,82974,Ornaments,83991,Potpourri
+82806,Household/Office Furniture/Furnishings,82848,Ornamental Furnishings,82974,Ornaments,84039,Seasonal Decorations (Non Powered)
+82807,Kitchen Merchandise,82839,Kitchen Merchandise,82902,Cookware/Bakeware,83489,Bakeware/Ovenware/Grillware (Non Disposable)
+82807,Kitchen Merchandise,82839,Kitchen Merchandise,82902,Cookware/Bakeware,89190,Cookware/Bakeware (Disposable)
+82807,Kitchen Merchandise,82839,Kitchen Merchandise,82919,Food Preparation Equipment,83684,Food Preparation Equipment Powered (Blender
+82807,Kitchen Merchandise,82839,Kitchen Merchandise,82919,Food Preparation Equipment,83896,Gadgets and Utensils
+82807,Kitchen Merchandise,82839,Kitchen Merchandise,82919,Food Preparation Equipment,83849,Kitchen Knives/Cleavers
+82807,Kitchen Merchandise,82839,Kitchen Merchandise,82919,Food Preparation Equipment,83851,Kitchen Slicers/Graters/Cutters
+82807,Kitchen Merchandise,82839,Kitchen Merchandise,82919,Food Preparation Equipment,83948,Paper Filters
+82807,Kitchen Merchandise,82839,Kitchen Merchandise,82946,Kitchen Merchandise Variety Packs,83850,Kitchen Merchandise Variety Packs
+82807,Kitchen Merchandise,82839,Kitchen Merchandise,82946,Kitchen Merchandise Variety Packs,84686,Miscellaneous
+82807,Kitchen Merchandise,82839,Kitchen Merchandise,82946,Kitchen Merchandise Variety Packs,84688,Non Consumables
+82807,Kitchen Merchandise,82839,Kitchen Merchandise,82946,Kitchen Merchandise Variety Packs,84694,Seafood: Plank
+82807,Kitchen Merchandise,82839,Kitchen Merchandise,82946,Kitchen Merchandise Variety Packs,84698,Wine Accessories: Cork Screws  Bottle Openers
+82807,Kitchen Merchandise,82839,Kitchen Merchandise,82946,Kitchen Merchandise Variety Packs,84699,Wine Accessories: Other
+82807,Kitchen Merchandise,82839,Kitchen Merchandise,82946,Kitchen Merchandise Variety Packs,84700,Wooden Accessories
+82807,Kitchen Merchandise,82839,Kitchen Merchandise,82947,Kitchen Storage,83630,Disposable Food Bags
+82807,Kitchen Merchandise,82839,Kitchen Merchandise,82947,Kitchen Storage,83631,Disposable Food Wrap
+82807,Kitchen Merchandise,82839,Kitchen Merchandise,82947,Kitchen Storage,83685,Food/Beverage Storage Containers
+82807,Kitchen Merchandise,82839,Kitchen Merchandise,82947,Kitchen Storage,83852,Kitchen Storage Other
+82807,Kitchen Merchandise,82839,Kitchen Merchandise,83014,Tableware - Serving/Eating/Drinking Equipment,97547,Disposable Tableware and Paper Goods (Commodity Every Day)
+82807,Kitchen Merchandise,82839,Kitchen Merchandise,83014,Tableware - Serving/Eating/Drinking Equipment,83632,Disposable Tableware and Paper Goods (Decorative and Seasonal)
+82807,Kitchen Merchandise,82839,Kitchen Merchandise,83014,Tableware - Serving/Eating/Drinking Equipment,83900,Mugs/Cups (Non Disposable)
+82807,Kitchen Merchandise,82839,Kitchen Merchandise,83014,Tableware - Serving/Eating/Drinking Equipment,84030,Salt/Pepper/Spice Mills (Non Powered)
+82807,Kitchen Merchandise,82839,Kitchen Merchandise,83014,Tableware - Serving/Eating/Drinking Equipment,84041,Serving/Eating/Drinking Tableware Other
+82807,Kitchen Merchandise,82839,Kitchen Merchandise,83025,Water/Beverage Equipment,83519,Bottle Stoppers/Pourers
+82807,Kitchen Merchandise,82839,Kitchen Merchandise,83025,Water/Beverage Equipment,84155,Teapots/Cafetieres
+82807,Kitchen Merchandise,82839,Kitchen Merchandise,83025,Water/Beverage Equipment,84206,Water Filters/Water Filter Cartridges
+82807,Kitchen Merchandise,82839,Kitchen Merchandise,83025,Water/Beverage Equipment,87633,Water Bottles and Accessories
+82808,Lawn/Garden Supplies,82840,Lawn/Garden Supplies,87610,Lawn/Garden Chemicals/Treatments,87634,Weed-Killer/ Herbicide
+82808,Lawn/Garden Supplies,82840,Lawn/Garden Supplies,97066,Lawn/Garden Hand Tools,97076,Lawn and Garden Hand Tools
+82808,Lawn/Garden Supplies,82840,Lawn/Garden Supplies,82950,Lawn/Garden Plants,83528,Bulbs/Corms/Rhizomes/Tubers
+82808,Lawn/Garden Supplies,82840,Lawn/Garden Supplies,82950,Lawn/Garden Plants,83610,Cut Flowers/Bouquets
+82808,Lawn/Garden Supplies,82840,Lawn/Garden Supplies,82950,Lawn/Garden Plants,97546,Seasonal Decorative/Holiday (Includes Xmas Trees
+82808,Lawn/Garden Supplies,82840,Lawn/Garden Supplies,82950,Lawn/Garden Plants,83679,Floral/Plant Accessories (Lawn/Garden)
+82808,Lawn/Garden Supplies,82840,Lawn/Garden Supplies,82950,Lawn/Garden Plants,83741,Gift Set Single Team
+82808,Lawn/Garden Supplies,82840,Lawn/Garden Supplies,82950,Lawn/Garden Plants,83924,Other
+82808,Lawn/Garden Supplies,82840,Lawn/Garden Supplies,82950,Lawn/Garden Plants,83683,Flowers - (Annuals/Biennials/Perennials)
+82808,Lawn/Garden Supplies,82840,Lawn/Garden Supplies,82950,Lawn/Garden Plants,83773,Herbs
+82808,Lawn/Garden Supplies,82840,Lawn/Garden Supplies,82950,Lawn/Garden Plants,83859,Lawn/Garden Plants Other
+82808,Lawn/Garden Supplies,82840,Lawn/Garden Supplies,82950,Lawn/Garden Plants,83862,Lawn/Grasses/Bamboo
+82808,Lawn/Garden Supplies,82840,Lawn/Garden Supplies,82950,Lawn/Garden Plants,84040,Seeds/Spores
+82808,Lawn/Garden Supplies,82840,Lawn/Garden Supplies,82950,Lawn/Garden Plants,84049,Shrubs/Trees
+82808,Lawn/Garden Supplies,82840,Lawn/Garden Supplies,82951,Lawn/Garden Pools/Ponds/Water Features and Ornaments,83860,Lawn/Garden Pools/Ponds/Water Features Other
+82808,Lawn/Garden Supplies,82840,Lawn/Garden Supplies,82952,Lawn/Garden Soil/Soil Amendments,83861,Lawn/Garden Soil/Soil Amendments Other
+82808,Lawn/Garden Supplies,82840,Lawn/Garden Supplies,97067,Lawn/Garden Watering Equipment,97077,Rain Barrels and Storage
+82809,Music,82844,Musical Instruments/Accessories,82963,Musical Instruments/Accessories Variety Packs,83879,Media Misc
+82809,Music,82844,Musical Instruments/Accessories,82963,Musical Instruments/Accessories Variety Packs,83880,Media: CDs
+82809,Music,82844,Musical Instruments/Accessories,82963,Musical Instruments/Accessories Variety Packs,83881,Media: DVD
+82810,Personal Accessories,82849,Personal Accessories,82945,Jewellery,83844,Jewelry
+82810,Personal Accessories,82849,Personal Accessories,82981,Personal Accessories Variety Packs,100807,Accessories Supplements
+82810,Personal Accessories,82849,Personal Accessories,82981,Personal Accessories Variety Packs,83437,Accessories: EyeWear Accessories
+82810,Personal Accessories,82849,Personal Accessories,82981,Personal Accessories Variety Packs,84692,Apparel - Whole Foods Market Labeled
+82810,Personal Accessories,82849,Personal Accessories,82981,Personal Accessories Variety Packs,84691,Bags - Whole Foods Market Labeled
+82810,Personal Accessories,82849,Personal Accessories,82981,Personal Accessories Variety Packs,120297,Gift Set Single Team
+82810,Personal Accessories,82849,Personal Accessories,82981,Personal Accessories Variety Packs,84693,Other - Whole Foods Market Labeled
+82810,Personal Accessories,82849,Personal Accessories,82981,Personal Accessories Variety Packs,84689,Personal Accessories Miscellaneous
+82810,Personal Accessories,82849,Personal Accessories,82981,Personal Accessories Variety Packs,84690,Pre Natal and Mom
+82810,Personal Accessories,82849,Personal Accessories,82982,Personal Carriers/Accessories,83525,Briefcases
+82810,Personal Accessories,82849,Personal Accessories,82982,Personal Carriers/Accessories,83488,Bags: Baby and Child
+82810,Personal Accessories,82849,Personal Accessories,82982,Personal Carriers/Accessories,83769,Handbags/Shoulder Bags
+82810,Personal Accessories,82849,Personal Accessories,82982,Personal Carriers/Accessories,83892,Miscellaneous Bags
+82810,Personal Accessories,82849,Personal Accessories,82982,Personal Carriers/Accessories,84001,Purses
+82810,Personal Accessories,82849,Personal Accessories,82982,Personal Carriers/Accessories,84048,Shopping Bags
+82810,Personal Accessories,82849,Personal Accessories,82982,Personal Carriers/Accessories,84161,Tote and Travel Bags
+82811,Pet Care/Food,82851,Pet Care,82984,Pet Accessories,83889,Misc. Pets
+82811,Pet Care/Food,82851,Pet Care,82984,Pet Accessories,83964,Pet Accessories: Misc. Pet Accessories
+82811,Pet Care/Food,82851,Pet Care,82984,Pet Accessories,83974,Pet Toys (Non Powered)
+82811,Pet Care/Food,82851,Pet Care,82984,Pet Accessories,83975,Pet Training/Control Aids/Accessories (Non Powered)
+82811,Pet Care/Food,82851,Pet Care,82986,Pet Nutritional Supplements,83973,Pet Nutritional Supplements
+82811,Pet Care/Food,82851,Pet Care,82987,Pet Welfare/Hygiene,83970,Pet Grooming Aids
+82811,Pet Care/Food,82851,Pet Care,82987,Pet Welfare/Hygiene,83971,Pet Grooming Aids
+82811,Pet Care/Food,82851,Pet Care,82987,Pet Welfare/Hygiene,96966,Kitty Litter
+82811,Pet Care/Food,82851,Pet Care,82987,Pet Welfare/Hygiene,83972,Pet Hygiene/Sanitary Protection
+82811,Pet Care/Food,82852,Pet Food/Drinks,82985,Pet Food,83965,Pet Food (Frozen)
+82811,Pet Care/Food,82852,Pet Food/Drinks,82985,Pet Food,83966,Pet Food (Perishable)
+82811,Pet Care/Food,82852,Pet Food/Drinks,82985,Pet Food,83967,Pet Food (Shelf Stable)
+82811,Pet Care/Food,82852,Pet Food/Drinks,82985,Pet Food,83968,Pet Food (Shelf Stable)
+82811,Pet Care/Food,82852,Pet Food/Drinks,82985,Pet Food,85565,Pet Food (Shelf Stable) - Bird & Livestock Feed
+82812,Sports Equipment,82858,Sports Equipment,82983,Personal Fitness Sports Equipment,83962,Personal Fitness Sports Equipment Other
+82813,Stationery/Office Machinery/Occasion Supplies,82833,Greeting Cards/Gift Wrap/Occasion Supplies,82931,Gift Wrap/Accessories,83742,Gift Wrap
+82813,Stationery/Office Machinery/Occasion Supplies,82833,Greeting Cards/Gift Wrap/Occasion Supplies,82931,Gift Wrap/Accessories,83743,Gift Wrap Accessories
+82813,Stationery/Office Machinery/Occasion Supplies,82833,Greeting Cards/Gift Wrap/Occasion Supplies,82934,Greeting Cards/Gift Wrap/Occasion Supplies Variety Packs,83756,Greeting Cards/Gift Wrap/Occasion Supplies Variety Packs
+82813,Stationery/Office Machinery/Occasion Supplies,82833,Greeting Cards/Gift Wrap/Occasion Supplies,82935,Greeting Cards/Invitations,83757,Greeting Cards/Invitations
+82813,Stationery/Office Machinery/Occasion Supplies,82859,Stationery/Office Machinery,82972,Organizational Planning Stationery,83534,Calendars/Planners
+82813,Stationery/Office Machinery/Occasion Supplies,82859,Stationery/Office Machinery,82972,Organizational Planning Stationery,83788,Home Office: Office Supplies
+82813,Stationery/Office Machinery/Occasion Supplies,82859,Stationery/Office Machinery,82972,Organizational Planning Stationery,83789,Home Office: Stationary
+82813,Stationery/Office Machinery/Occasion Supplies,82859,Stationery/Office Machinery,82972,Organizational Planning Stationery,83963,Personal Organizers/Diaries (Non Powered)
+82813,Stationery/Office Machinery/Occasion Supplies,82859,Stationery/Office Machinery,83007,Stationery Paper/Card/Film,84130,Stationery Paper/Card/Film Other
+82814,Storage/Haulage Containers,82860,Storage Bottles/Cylinders/Barrels (Empty),83010,Storage Bottles/Cylinders (Empty),84134,Storage Bottles (Empty)
+82814,Storage/Haulage Containers,82860,Storage Bottles/Cylinders/Barrels (Empty),83010,Storage Bottles/Cylinders (Empty),84135,Storage Bottles (Empty)
+82815,Textual/Printed/Reference Materials,82861,Textual/Printed/Reference Materials,82980,Periodicals,84306,Newspapers
+82815,Textual/Printed/Reference Materials,82861,Textual/Printed/Reference Materials,82980,Periodicals,83995,Printed Periodicals
+82815,Textual/Printed/Reference Materials,82861,Textual/Printed/Reference Materials,83015,Textual/Printed/Reference Materials Variety Packs,84156,Textual/Printed/Reference Materials Books
+82816,Toys/Games,82862,Toys/Games,82886,Board Games/Cards/Puzzles,83515,Board Games/Cards/Puzzles Variety Packs
+82816,Toys/Games,82862,Toys/Games,82910,Dolls/Puppets/Action Figures/Soft Toys,83633,Dolls/Puppets/Soft Toys Other
+82816,Toys/Games,82862,Toys/Games,83017,Toys/Games Variety Packs,84162,Toys/Games Variety Packs
+84351,WFM,84352,Coupons,87075,Affinity Rewards,87077,Affinity Rewards Points Redemption
+84351,WFM,84352,Coupons,87075,Affinity Rewards,87078,Affinity Rewards WOW Redemption
+84351,WFM,84352,Coupons,84364,Global Funded Coupons,84566,Global Funded Coupons
+84351,WFM,84352,Coupons,84366,Regional Funded Coupons,87878,AMS Coupons
+84351,WFM,84352,Coupons,84366,Regional Funded Coupons,84620,Regional Funded Coupons
+84351,WFM,84352,Coupons,84366,Regional Funded Coupons,111232,Regional Funded Coupons - Bakery
+84351,WFM,84352,Coupons,84366,Regional Funded Coupons,111235,Regional Funded Coupons - Beer
+84351,WFM,84352,Coupons,84366,Regional Funded Coupons,111242,Regional Funded Coupons - Body Care
+84351,WFM,84352,Coupons,84366,Regional Funded Coupons,111240,Regional Funded Coupons - Cheese
+84351,WFM,84352,Coupons,84366,Regional Funded Coupons,111239,Regional Funded Coupons - Grocery
+84351,WFM,84352,Coupons,84366,Regional Funded Coupons,111241,Regional Funded Coupons - Lifestyle
+84351,WFM,84352,Coupons,84366,Regional Funded Coupons,111234,Regional Funded Coupons - Marketing
+84351,WFM,84352,Coupons,84366,Regional Funded Coupons,111228,Regional Funded Coupons - Meat
+84351,WFM,84352,Coupons,84366,Regional Funded Coupons,111231,Regional Funded Coupons - Prepared Foods
+84351,WFM,84352,Coupons,84366,Regional Funded Coupons,111229,Regional Funded Coupons - Produce
+84351,WFM,84352,Coupons,84366,Regional Funded Coupons,111230,Regional Funded Coupons - Seafood
+84351,WFM,84352,Coupons,84366,Regional Funded Coupons,111243,Regional Funded Coupons - Supplements
+84351,WFM,84352,Coupons,84366,Regional Funded Coupons,111233,Regional Funded Coupons - Sushi
+84351,WFM,84352,Coupons,84366,Regional Funded Coupons,111237,Regional Funded Coupons - Wine
+84351,WFM,84352,Coupons,84368,Store Funded Coupons,84632,Store Funded Coupons
+84351,WFM,84352,Coupons,84370,Vendor Funded Coupons,84652,Vendor Funded Coupons
+84351,WFM,84797,Donations,84798,Donations,84805,Donation
+84351,WFM,84797,Donations,84798,Donations,98305,Donations Margin
+84351,WFM,84797,Donations,84798,Donations,120967,Holiday Giving
+84351,WFM,84797,Donations,84798,Donations,87272,Whole Cities Foundation Donations
+84351,WFM,84797,Donations,84798,Donations,87270,Whole Kids Foundation Donations
+84351,WFM,84797,Donations,84798,Donations,84808,Whole Planet Foundation Donations
+84351,WFM,84353,Fees and Deposits,84357,Bottle Deposits,84804,Bottle Credit CRV
+84351,WFM,84353,Fees and Deposits,84357,Bottle Deposits,97125,Bottle Credit ORV
+84351,WFM,84353,Fees and Deposits,84357,Bottle Deposits,84530,Bottle Deposit
+84351,WFM,84353,Fees and Deposits,84357,Bottle Deposits,97124,Bottle Deposit ORV
+84351,WFM,84353,Fees and Deposits,84357,Bottle Deposits,84548,CRV
+84351,WFM,84353,Fees and Deposits,84357,Bottle Deposits,84574,Hi5
+84351,WFM,84353,Fees and Deposits,84357,Bottle Deposits,84531,Bottle Refund
+84351,WFM,84353,Fees and Deposits,84361,Fees,84517,Bag Fee
+84351,WFM,84353,Fees and Deposits,84361,Fees,98286,Bag Fee Sale
+84351,WFM,84353,Fees and Deposits,84361,Fees,85634,Denver Bag Fee
+84351,WFM,84353,Fees and Deposits,84361,Fees,98629,Blackhawk Consumer Fee
+84351,WFM,84353,Fees and Deposits,84361,Fees,84533,BYO Bag Credit
+84351,WFM,84353,Fees and Deposits,84361,Fees,84534,BYORefund
+84351,WFM,84353,Fees and Deposits,84361,Fees,84536,Catering Deposits
+84351,WFM,84353,Fees and Deposits,84361,Fees,84619,Recycling Fee
+84351,WFM,84353,Fees and Deposits,84361,Fees,84697,TM Fee
+84351,WFM,84353,Fees and Deposits,98098,Misc Deposits,98110,Misc Deposits
+84351,WFM,110631,Ingredient,110632,Ingredient,110654,Commodity
+84351,WFM,110631,Ingredient,110632,Ingredient,110655,Component
+84351,WFM,110631,Ingredient,110635,Venue Product,110653,Bar Venue Ingredients
+84351,WFM,110631,Ingredient,110635,Venue Product,119242,Bread Ingredients
+84351,WFM,110631,Ingredient,110635,Venue Product,119243,Cakes Ingredients
+84351,WFM,110631,Ingredient,110635,Venue Product,110656,Cookie Bar Ingredients
+84351,WFM,110631,Ingredient,110635,Venue Product,110657,Dry Pastry Ingredients
+84351,WFM,110631,Ingredient,110635,Venue Product,110658,Gelato Ingredients
+84351,WFM,110631,Ingredient,110635,Venue Product,110659,Hot Bar Ingredients
+84351,WFM,110631,Ingredient,110635,Venue Product,110660,Hot Soup Ingredients
+84351,WFM,110631,Ingredient,110635,Venue Product,110662,Patisserie Ingredients
+84351,WFM,110631,Ingredient,110635,Venue Product,110663,Pizza Ingredients
+84351,WFM,110631,Ingredient,110635,Venue Product,110664,Restaurant Ingredients
+84351,WFM,110631,Ingredient,110635,Venue Product,110665,Salad Bar Ingredients
+84351,WFM,110631,Ingredient,110635,Venue Product,110666,Sandwich Ingredients
+84351,WFM,110631,Ingredient,110635,Venue Product,110667,Smokehouse Ingredients
+84351,WFM,110631,Ingredient,110635,Venue Product,110669,Venue Misc Ingredients
+84351,WFM,84354,Non Product,84363,Gift Cards,88404,Batch Gift Card Sales
+84351,WFM,84354,Non Product,84363,Gift Cards,86393,Blackhawk Closed Loop
+84351,WFM,84354,Non Product,84363,Gift Cards,98628,Blackhawk Open Loop
+84351,WFM,84354,Non Product,84363,Gift Cards,99661,Blackhawk Refund
+84351,WFM,84354,Non Product,84363,Gift Cards,85714,GiftCard Cashout All
+84351,WFM,84354,Non Product,84363,Gift Cards,98109,Milk and Honey Gift Cards
+84351,WFM,84354,Non Product,84363,Gift Cards,85715,Topup Value Link Magnetic  Stripe
+84351,WFM,84354,Non Product,84363,Gift Cards,85716,Topup Vantive Magnetic Stripe
+84351,WFM,84354,Non Product,84363,Gift Cards,84647,Value Link
+84351,WFM,84354,Non Product,84363,Gift Cards,84648,Vantiv Barcode USD
+84351,WFM,84354,Non Product,84363,Gift Cards,84649,Vantiv Barcode Multipack
+84351,WFM,84354,Non Product,84363,Gift Cards,84650,Vantiv Barcode CAD
+84351,WFM,84354,Non Product,84363,Gift Cards,84651,Vantiv Magnetic Stripe USD
+84351,WFM,84354,Non Product,84363,Gift Cards,87162,Vantiv Magnetic Stripe CAD
+84351,WFM,84354,Non Product,110633,Packaging,110661,Packaging
+84351,WFM,84354,Non Product,84365,Postage,84595,Postage
+84351,WFM,84354,Non Product,110634,Supplies,110668,Supplies
+84351,WFM,84354,Non Product,84369,Tickets,109529,Beer Events Tickets
+84351,WFM,84354,Non Product,84369,Tickets,84644,Tickets (Margin)
+84351,WFM,84354,Non Product,84369,Tickets,84645,Tickets (Non Margin)
+84351,WFM,84354,Non Product,84369,Tickets,85640,Transit Tickets (Metro
+84351,WFM,84354,Non Product,84369,Tickets,111054,Transit Tickets (Metro
+84351,WFM,84354,Non Product,84369,Tickets,109528,Wine Events Tickets
+84351,WFM,84355,Services,84358,Charges,84552,Delivery Charge
+84351,WFM,84355,Services,84358,Charges,84807,NSF  Payment
+84351,WFM,84355,Services,84358,Charges,84806,NSF  Charge
+84351,WFM,84355,Services,84358,Charges,84625,Shipping Charge
+84351,WFM,84355,Services,84367,Services,84546,Concierge Service Margin
+84351,WFM,84355,Services,84367,Services,97917,Concierge Service Non Margin
+84351,WFM,84355,Services,84367,Services,109394,GoogleX
+84351,WFM,84355,Services,84367,Services,109395,Instacart Delivery
+84351,WFM,84355,Services,84367,Services,109396,Instacart Pickup
+84351,WFM,84355,Services,84367,Services,84547,Cooking Class
+84351,WFM,84355,Services,84367,Services,96987,Vendor Managed Cooking Class
+84351,WFM,84355,Services,84367,Services,86394,Legacy (non R10) POS Accounting PLUs
+84351,WFM,84355,Services,84367,Services,84590,Massage
+84351,WFM,84355,Services,84367,Services,85635,Municipal Services
+84351,WFM,84355,Services,84367,Services,98111,Spa Service
+84351,WFM,84355,Services,84367,Services,84627,Spa Service
+84351,WFM,84355,Services,84367,Services,97201,Spa Services
+84351,WFM,84355,Services,84367,Services,97014,Non Cash Tips
+84351,WFM,84355,Services,84367,Services,84646,Tips
+84351,WFM,84356,WFM Product,84359,Department Keys,84518,BAKERY DEPT KEY
+84351,WFM,84356,WFM Product,84359,Department Keys,84523,BEER DEPT KEY
+84351,WFM,84356,WFM Product,84359,Department Keys,84525,BODY CARE DEPT KEY
+84351,WFM,84356,WFM Product,84359,Department Keys,84532,BULK DEPT KEY
+84351,WFM,84356,WFM Product,84359,Department Keys,86565,BULK RW DEPT KEY
+84351,WFM,84356,WFM Product,84359,Department Keys,84537,CHEESE DEPT KEY
+84351,WFM,84356,WFM Product,84359,Department Keys,84539,COFFEE BAR DEPT KEY
+84351,WFM,84356,WFM Product,84359,Department Keys,84550,DAIRY DEPT KEY
+84351,WFM,84356,WFM Product,84359,Department Keys,84553,FLORAL DEPT KEY
+84351,WFM,84356,WFM Product,84359,Department Keys,84556,FROZEN DEPT KEY
+84351,WFM,84356,WFM Product,84359,Department Keys,84562,GIFT BASKET DEPT KEY
+84351,WFM,84356,WFM Product,84359,Department Keys,84567,GROCERY DEPT KEY
+84351,WFM,84356,WFM Product,84359,Department Keys,84577,JUICE BAR  DEPT KEY
+84351,WFM,84356,WFM Product,84359,Department Keys,84580,LIFESTYLE DEPT KEY
+84351,WFM,84356,WFM Product,84359,Department Keys,84591,MEAT DEPT KEY
+84351,WFM,84356,WFM Product,84359,Department Keys,86564,PREPARED FOODS COLD DEPT KEY
+84351,WFM,84356,WFM Product,84359,Department Keys,84598,PREPARED FOODS HOT DEPT KEY
+84351,WFM,84356,WFM Product,84359,Department Keys,84615,PRODUCE EA DEPT KEY
+84351,WFM,84356,WFM Product,84359,Department Keys,86566,PRODUCE RW DEPT KEY
+84351,WFM,84356,WFM Product,84359,Department Keys,84622,SEAFOOD DEPT KEY
+84351,WFM,84356,WFM Product,84359,Department Keys,86567,SPIRITS DEPT KEY
+84351,WFM,84356,WFM Product,84359,Department Keys,84633,SUPPLEMENTS DEPT KEY
+84351,WFM,84356,WFM Product,84359,Department Keys,84535,SUSHI DEPT KEY
+84351,WFM,84356,WFM Product,84359,Department Keys,84655,WINE DEPT KEY
+84351,WFM,84356,WFM Product,84360,Department PLUs,84515,APPAREL DEPT PLU
+84351,WFM,84356,WFM Product,84360,Department PLUs,84516,APPAREL RW DEPT PLU
+84351,WFM,84356,WFM Product,84360,Department PLUs,84519,BAKERY HEARTH BREAD SELF SERVE DEPT PLU
+84351,WFM,84356,WFM Product,84360,Department PLUs,84520,BAKERY RW DEPT PLU
+84351,WFM,84356,WFM Product,84360,Department PLUs,84521,BAKERY RW TAXABLE DEPT PLU
+84351,WFM,84356,WFM Product,84360,Department PLUs,84522,BAKERY TAXABLE DEPT PLU
+84351,WFM,84356,WFM Product,84360,Department PLUs,98105,BEER DEPT PLU
+84351,WFM,84356,WFM Product,84360,Department PLUs,84526,BODY CARE RW DEPT PLU
+84351,WFM,84356,WFM Product,84360,Department PLUs,84527,BODY CARE RW TAXABLE DEPT PLU
+84351,WFM,84356,WFM Product,84360,Department PLUs,84528,BODY CARE TAXABLE DEPT PLU
+84351,WFM,84356,WFM Product,84360,Department PLUs,84529,BOOKS CARDS MAGAZINES DEPT PLU
+84351,WFM,84356,WFM Product,84360,Department PLUs,98106,CANDY ISLAND DEPT PLU
+84351,WFM,84356,WFM Product,84360,Department PLUs,84538,CHEESE RW DEPT PLU
+84351,WFM,84356,WFM Product,84360,Department PLUs,98034,COFFEE BAR ALLEGRO VENUE
+84351,WFM,84356,WFM Product,84360,Department PLUs,84541,COFFEE BAR DEPT PLU
+84351,WFM,84356,WFM Product,84360,Department PLUs,84542,COFFEE BAR GOPago DEPT PLU
+84351,WFM,84356,WFM Product,84360,Department PLUs,84543,COFFEE BAR RW DEPT PLU
+84351,WFM,84356,WFM Product,84360,Department PLUs,84544,COFFEE DEPT PLU
+84351,WFM,84356,WFM Product,84360,Department PLUs,84545,COFFEE RW DEPT PLU
+84351,WFM,84356,WFM Product,84360,Department PLUs,84555,CUSTOMER SERVICE MARGIN DEPT PLU
+84351,WFM,84356,WFM Product,84360,Department PLUs,98107,CUSTOMER SERVICE NON MARGIN DEPT PLU
+84351,WFM,84356,WFM Product,84360,Department PLUs,84551,DAIRY RW DEPT PLU
+84351,WFM,84356,WFM Product,84360,Department PLUs,84554,FLORAL RW DEPT PLU
+84351,WFM,84356,WFM Product,84360,Department PLUs,84557,FROZEN RW  DEPT PLU
+84351,WFM,84356,WFM Product,84360,Department PLUs,84558,FROZEN TAXABLE DEPT PLU
+84351,WFM,84356,WFM Product,84360,Department PLUs,84559,GARDEN CENTER DEPT PLU
+84351,WFM,84356,WFM Product,84360,Department PLUs,84560,GELATO DEPT PLU
+84351,WFM,84356,WFM Product,84360,Department PLUs,84561,GELATO RW DEPT PLU
+84351,WFM,84356,WFM Product,84360,Department PLUs,84564,GIFT BASKETS RW DEPT PLU
+84351,WFM,84356,WFM Product,84360,Department PLUs,84565,GIFT BASKETS TAXABLE DEPT PLU
+84351,WFM,84356,WFM Product,84360,Department PLUs,84568,GROCERY BULK RW DEPT PLU
+84351,WFM,84356,WFM Product,84360,Department PLUs,84569,GROCERY BULK RW TAXABLE DEPT PLU
+84351,WFM,84356,WFM Product,84360,Department PLUs,84570,GROCERY BULK TAXABLE DEPT PLU
+84351,WFM,84356,WFM Product,84360,Department PLUs,84571,GROCERY NON TAXABLE DEPT PLU
+84351,WFM,84356,WFM Product,84360,Department PLUs,84572,GROCERY SODA / CARBONATED BEVERAGE DEPT PLU
+84351,WFM,84356,WFM Product,84360,Department PLUs,84573,GROCERY TAXABLE DEPT PLU
+84351,WFM,84356,WFM Product,84360,Department PLUs,84575,HOUSEWARES DEPT PLU
+84351,WFM,84356,WFM Product,84360,Department PLUs,84576,HOUSEWARES RW DEPT PLU
+84351,WFM,84356,WFM Product,84360,Department PLUs,84578,JUICE BAR DEPT PLU
+84351,WFM,84356,WFM Product,84360,Department PLUs,84581,LIQUOR DEPT PLU
+84351,WFM,84356,WFM Product,84360,Department PLUs,84582,LIQUOR ITEM 1 L DEPT PLU
+84351,WFM,84356,WFM Product,84360,Department PLUs,84583,LIQUOR ITEM 1.75 L DEPT PLU
+84351,WFM,84356,WFM Product,84360,Department PLUs,84584,LIQUOR ITEM 300 mL DEPT PLU
+84351,WFM,84356,WFM Product,84360,Department PLUs,84585,LIQUOR ITEM 375 mL DEPT PLU
+84351,WFM,84356,WFM Product,84360,Department PLUs,84586,LIQUOR ITEM 500 mL DEPT PLU
+84351,WFM,84356,WFM Product,84360,Department PLUs,84587,LIQUOR ITEM 750 mL DEPT PLU
+84351,WFM,84356,WFM Product,84360,Department PLUs,84588,MAGAZINES OPEN RING DEPT PLU
+84351,WFM,84356,WFM Product,84360,Department PLUs,84589,MARKETING TAXABLE DEPT PLU
+84351,WFM,84356,WFM Product,84360,Department PLUs,84592,MEAT RW DEPT PLU
+84351,WFM,84356,WFM Product,84360,Department PLUs,84593,MEAT SMOKEHOUSE DEPT PLU
+84351,WFM,84356,WFM Product,84360,Department PLUs,84594,MEAT SMOKEHOUSE RW DEPT PLU
+84351,WFM,84356,WFM Product,84360,Department PLUs,85636,No Subteam Dump PLU
+84351,WFM,84356,WFM Product,84360,Department PLUs,84596,POULTRY DEPT PLU
+84351,WFM,84356,WFM Product,84360,Department PLUs,84597,POULTRY RW DEPT PLU
+84351,WFM,84356,WFM Product,84360,Department PLUs,84599,PREPARED FOODS CATERING DEPT PLU
+84351,WFM,84356,WFM Product,84360,Department PLUs,84600,PREPARED FOODS CATERING ITEM DEPT PLU
+84351,WFM,84356,WFM Product,84360,Department PLUs,84601,PREPARED FOODS CHARCUTERIE / MEATS DEPT PLU
+84351,WFM,84356,WFM Product,84360,Department PLUs,84602,PREPARED FOODS CHARCUTERIE RW DEPT PLU
+84351,WFM,84356,WFM Product,84360,Department PLUs,84603,PREPARED FOODS COLD DEPT PLU
+84351,WFM,84356,WFM Product,84360,Department PLUs,84604,PREPARED FOODS ENTREES RW DEPT PLU
+84351,WFM,84356,WFM Product,84360,Department PLUs,84605,PREPARED FOODS HOT DEPT PLU
+84351,WFM,84356,WFM Product,84360,Department PLUs,84606,PREPARED FOODS HOT RW DEPT PLU
+84351,WFM,84356,WFM Product,84360,Department PLUs,84607,PREPARED FOODS RW DEPT PLU
+84351,WFM,84356,WFM Product,84360,Department PLUs,84608,PREPARED FOODS RW TAXABLE DEPT PLU
+84351,WFM,84356,WFM Product,84360,Department PLUs,84609,PREPARED FOODS SANDWICH/PREPACK DEPT PLU
+84351,WFM,84356,WFM Product,84360,Department PLUs,84610,PREPARED FOODS SOUP/SALAD BAR DEPT PLU
+84351,WFM,84356,WFM Product,84360,Department PLUs,84611,PREPARED FOODS SUSHI CATERING DEPT PLU
+84351,WFM,84356,WFM Product,84360,Department PLUs,84612,PREPARED FOODS SUSHI DEPT PLU
+84351,WFM,84356,WFM Product,84360,Department PLUs,84613,PREPARED FOODS SUSHI RW DEPT PLU
+84351,WFM,84356,WFM Product,84360,Department PLUs,84614,PREPARED FOODS TAXABLE DEPT PLU
+84351,WFM,84356,WFM Product,84360,Department PLUs,84616,PRODUCE EACH DEPT PLU
+84351,WFM,84356,WFM Product,84360,Department PLUs,84617,PRODUCE RW DEPT PLU
+84351,WFM,84356,WFM Product,84360,Department PLUs,84618,PROMO TAXABLE DEPT PLU
+84351,WFM,84356,WFM Product,84360,Department PLUs,84623,SEAFOOD RW DEPT PLU
+84351,WFM,84356,WFM Product,84360,Department PLUs,84628,SPECIALTY CANDY ISLAND DEPT PLU
+84351,WFM,84356,WFM Product,84360,Department PLUs,84629,SPECIALTY CANDY ISLAND RW DEPT PLU
+84351,WFM,84356,WFM Product,84360,Department PLUs,84630,SPECIALTY CHOCOLATE RW DEPT PLU
+84351,WFM,84356,WFM Product,84360,Department PLUs,84631,SPORTS NUTRITION DEPT PLU
+84351,WFM,84356,WFM Product,84360,Department PLUs,84634,SUPPLEMENTS BULK DEPT PLU
+84351,WFM,84356,WFM Product,84360,Department PLUs,84635,SUPPLEMENTS HERBS DEPT PLU
+84351,WFM,84356,WFM Product,84360,Department PLUs,84636,SUPPLEMENTS HERBS RW DEPT PLU
+84351,WFM,84356,WFM Product,84360,Department PLUs,84637,SUPPLEMENTS NUTRITIONAL BARS DEPT PLU
+84351,WFM,84356,WFM Product,84360,Department PLUs,84638,SUPPLEMENTS RW DEPT PLU
+84351,WFM,84356,WFM Product,84360,Department PLUs,84639,SUPPLEMENTS VITAMINS DEPT PLU
+84351,WFM,84356,WFM Product,84360,Department PLUs,84640,SUPPLEMENTS VITAMINS RW DEPT PLU
+84351,WFM,84356,WFM Product,84360,Department PLUs,84641,SUPPLEMENTS VITAMINS RW TAXABLE DEPT PLU
+84351,WFM,84356,WFM Product,84360,Department PLUs,84642,SUPPLEMENTS VITAMINS TAXABLE DEPT PLU
+84351,WFM,84356,WFM Product,84360,Department PLUs,84643,TEA DEPT PLU
+84351,WFM,84356,WFM Product,84360,Department PLUs,84653,VENUE MEDITERRANEAN DEPT PLU
+84351,WFM,84356,WFM Product,84360,Department PLUs,84654,VENUE TAP ROOM DEPT PLU
+84351,WFM,84356,WFM Product,84360,Department PLUs,98108,WINE DEPT PLU
+84351,WFM,84356,WFM Product,84362,Gift Baskets,84563,Gift Baskets
+84351,WFM,84356,WFM Product,84371,Venues,84514,Alchohol Venue
+84351,WFM,84356,WFM Product,84371,Venues,84524,Beer Venue
+84351,WFM,84356,WFM Product,84371,Venues,98260,Coffee Bar 3rd Party
+84351,WFM,84356,WFM Product,84371,Venues,111123,Coffee Bar 3rd Party
+84351,WFM,84356,WFM Product,84371,Venues,84540,Coffee Bar Venue
+84351,WFM,84356,WFM Product,84371,Venues,84579,JuiceBar
+84351,WFM,84356,WFM Product,84371,Venues,84621,Restaurant Venue
+84351,WFM,84356,WFM Product,84371,Venues,84624,Seafood Venue
+84351,WFM,84356,WFM Product,84371,Venues,84626,Smokehouse Venue
+84351,WFM,84356,WFM Product,84371,Venues,86974,Dosateria
+84351,WFM,84356,WFM Product,84371,Venues,86975,Mediterranean
+84351,WFM,84356,WFM Product,84371,Venues,111049,Misc. Prepared Foods
+84351,WFM,84356,WFM Product,84371,Venues,84656,Wine Venue

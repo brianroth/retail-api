@@ -5,6 +5,7 @@ class CreateItems < ActiveRecord::Migration[5.0]
       t.string :name, null: false
       t.string :uom, null: false
       t.uuid :brand_id, index: true, null: false
+      t.uuid :hierarchy_node_id, index: true, null: false
       t.timestamps
     end
   end

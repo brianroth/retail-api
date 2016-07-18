@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20160708154329) do
+ActiveRecord::Schema.define(version: 20160718000243) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -23,14 +23,24 @@ ActiveRecord::Schema.define(version: 20160708154329) do
     t.index ["name"], name: "index_brands_on_name", using: :btree
   end
 
+  create_table "hierarchy_nodes", id: :uuid, default: -> { "uuid_generate_v4()" }, force: :cascade do |t|
+    t.integer  "external_id", null: false
+    t.string   "name",        null: false
+    t.datetime "created_at",  null: false
+    t.datetime "updated_at",  null: false
+    t.index ["external_id"], name: "index_hierarchy_nodes_on_external_id", using: :btree
+  end
+
   create_table "items", id: :uuid, default: -> { "uuid_generate_v4()" }, force: :cascade do |t|
-    t.bigint   "upc",        null: false
-    t.string   "name",       null: false
-    t.string   "uom",        null: false
-    t.uuid     "brand_id",   null: false
-    t.datetime "created_at", null: false
-    t.datetime "updated_at", null: false
+    t.bigint   "upc",               null: false
+    t.string   "name",              null: false
+    t.string   "uom",               null: false
+    t.uuid     "brand_id",          null: false
+    t.uuid     "hierarchy_node_id", null: false
+    t.datetime "created_at",        null: false
+    t.datetime "updated_at",        null: false
     t.index ["brand_id"], name: "index_items_on_brand_id", using: :btree
+    t.index ["hierarchy_node_id"], name: "index_items_on_hierarchy_node_id", using: :btree
     t.index ["upc"], name: "index_items_on_upc", using: :btree
   end
 

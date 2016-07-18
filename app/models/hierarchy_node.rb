@@ -1,4 +1,6 @@
 class HierarchyNode < ApplicationRecord
+  has_ancestry
+  
   validates :name, presence: true
   validates :external_id, presence: true, uniqueness: true
   has_many :items

@@ -5,7 +5,7 @@ class Api::V1::ItemsController < Api::V1::BaseController
   def index
     items = apply_filters(Item.all, filter_params)
     items = items.where(brand_id: filter_params[:brand_id]) if filter_params[:brand_id]
-    items = items.where(herarchy_node_id: filter_params[:herarchy_node_id]) if filter_params[:herarchy_node_id]
+    items = items.where(hierarchy_node_id: filter_params[:hierarchy_node_id]) if filter_params[:hierarchy_node_id]
     items = paginate(items)
 
     render json: items,

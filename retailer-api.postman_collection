@@ -1,0 +1,797 @@
+{
+	"variables": [],
+	"info": {
+		"name": "retailer api",
+		"_postman_id": "4e9d17bc-261e-aafa-c497-23f80c52b80f",
+		"description": "",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Brand",
+			"description": "",
+			"item": [
+				{
+					"name": "List",
+					"request": {
+						"url": "http://localhost:3000/api/v1/brands",
+						"method": "GET",
+						"header": [
+							{
+								"key": "Accept",
+								"value": "application/json",
+								"description": ""
+							},
+							{
+								"key": "Authorization",
+								"value": "Bearer {{Authorization-Header}}",
+								"description": ""
+							}
+						],
+						"body": {
+							"mode": "formdata",
+							"formdata": []
+						},
+						"description": ""
+					},
+					"response": []
+				},
+				{
+					"name": "Read",
+					"request": {
+						"url": "http://localhost:3000/api/v1/brands/f7b7f361-6fe4-4a3f-b717-3c9124ba362c",
+						"method": "GET",
+						"header": [
+							{
+								"key": "Accept",
+								"value": "application/json",
+								"description": ""
+							},
+							{
+								"key": "Authorization",
+								"value": "Bearer {{Authorization-Header}}",
+								"description": ""
+							}
+						],
+						"body": {
+							"mode": "formdata",
+							"formdata": []
+						},
+						"description": ""
+					},
+					"response": []
+				},
+				{
+					"name": "Create",
+					"request": {
+						"url": "http://localhost:3000/api/v1/brands",
+						"method": "POST",
+						"header": [
+							{
+								"key": "Accept",
+								"value": "application/json",
+								"description": ""
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"description": ""
+							},
+							{
+								"key": "Authorization",
+								"value": "Bearer {{Authorization-Header}}",
+								"description": ""
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n  \"brand\": {\n    \"name\": \"Donkeys R Us\"\n  }\n}"
+						},
+						"description": ""
+					},
+					"response": []
+				},
+				{
+					"name": "Update",
+					"request": {
+						"url": "http://localhost:3000/api/v1/users/488995a6-3989-4af5-ae4a-a0e3296c60a4",
+						"method": "PUT",
+						"header": [
+							{
+								"key": "Accept",
+								"value": "application/json",
+								"description": ""
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"description": ""
+							},
+							{
+								"key": "Authorization",
+								"value": "Bearer {{Authorization-Header}}",
+								"description": ""
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n  \"brand\": {\n    \"name\": \"Donkeys R Us\"\n  }\n}"
+						},
+						"description": ""
+					},
+					"response": []
+				},
+				{
+					"name": "Destroy",
+					"request": {
+						"url": "http://localhost:3000/api/v1/brands/f7b7f361-6fe4-4a3f-b717-3c9124ba362c",
+						"method": "DELETE",
+						"header": [
+							{
+								"key": "Accept",
+								"value": "application/json",
+								"description": ""
+							},
+							{
+								"key": "Authorization",
+								"value": "Bearer {{Authorization-Header}}",
+								"description": ""
+							}
+						],
+						"body": {
+							"mode": "formdata",
+							"formdata": []
+						},
+						"description": ""
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Hierarchy",
+			"description": "",
+			"item": [
+				{
+					"name": "List",
+					"request": {
+						"url": "http://localhost:3000/api/v1/hierarchy_nodes?page=5",
+						"method": "GET",
+						"header": [
+							{
+								"key": "Accept",
+								"value": "application/json",
+								"description": ""
+							},
+							{
+								"key": "Authorization",
+								"value": "Bearer {{Authorization-Header}}",
+								"description": ""
+							}
+						],
+						"body": {
+							"mode": "formdata",
+							"formdata": []
+						},
+						"description": ""
+					},
+					"response": []
+				},
+				{
+					"name": "Read",
+					"request": {
+						"url": "http://localhost:3000/api/v1/hierarchy_nodes/e12ff111-ffe7-40a4-9447-8505b251c05d",
+						"method": "GET",
+						"header": [
+							{
+								"key": "Accept",
+								"value": "application/json",
+								"description": ""
+							},
+							{
+								"key": "Authorization",
+								"value": "Bearer {{Authorization-Header}}",
+								"description": ""
+							}
+						],
+						"body": {
+							"mode": "formdata",
+							"formdata": []
+						},
+						"description": ""
+					},
+					"response": []
+				},
+				{
+					"name": "Update",
+					"request": {
+						"url": "http://localhost:3000/api/v1/hierarchy_nodes/13fb7c1c-812a-4f2a-8fd2-51a02e86d3de",
+						"method": "PUT",
+						"header": [
+							{
+								"key": "Accept",
+								"value": "application/json",
+								"description": ""
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"description": ""
+							},
+							{
+								"key": "Authorization",
+								"value": "Bearer {{Authorization-Header}}",
+								"description": ""
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n  \"hierarchy_node\": {\n    \"name\": \"Alligator Cream\"\n  }\n}"
+						},
+						"description": ""
+					},
+					"response": []
+				},
+				{
+					"name": "Create",
+					"request": {
+						"url": "http://localhost:3000/api/v1/hierarchy_nodes",
+						"method": "POST",
+						"header": [
+							{
+								"key": "Accept",
+								"value": "application/json",
+								"description": ""
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"description": ""
+							},
+							{
+								"key": "Authorization",
+								"value": "Bearer {{Authorization-Header}}",
+								"description": ""
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n  \"hierarchy_node\": {\n    \"external_id\": 183519,\n    \"name\": \"Alligator Shoes\"\n  }\n}"
+						},
+						"description": ""
+					},
+					"response": []
+				},
+				{
+					"name": "Destroy",
+					"request": {
+						"url": "http://localhost:3000/api/v1/hierarchy_nodes/f7b7f361-6fe4-4a3f-b717-3c9124ba362c",
+						"method": "DELETE",
+						"header": [
+							{
+								"key": "Accept",
+								"value": "application/json",
+								"description": ""
+							},
+							{
+								"key": "Authorization",
+								"value": "Bearer {{Authorization-Header}}",
+								"description": ""
+							}
+						],
+						"body": {
+							"mode": "formdata",
+							"formdata": []
+						},
+						"description": ""
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Item",
+			"description": "",
+			"item": [
+				{
+					"name": "List",
+					"request": {
+						"url": "http://localhost:3000/api/v1/items",
+						"method": "GET",
+						"header": [
+							{
+								"key": "Accept",
+								"value": "application/json",
+								"description": ""
+							},
+							{
+								"key": "Authorization",
+								"value": "Bearer {{Authorization-Header}}",
+								"description": ""
+							}
+						],
+						"body": {
+							"mode": "formdata",
+							"formdata": []
+						},
+						"description": ""
+					},
+					"response": []
+				},
+				{
+					"name": "List Items for brand",
+					"request": {
+						"url": "http://localhost:3000/api/v1/brands/3dd41431-8a02-4495-861f-2e7d163bd2e7/items",
+						"method": "GET",
+						"header": [
+							{
+								"key": "Accept",
+								"value": "application/json",
+								"description": ""
+							},
+							{
+								"key": "Authorization",
+								"value": "Bearer {{Authorization-Header}}",
+								"description": ""
+							}
+						],
+						"body": {
+							"mode": "formdata",
+							"formdata": []
+						},
+						"description": ""
+					},
+					"response": []
+				},
+				{
+					"name": "List Items for hierarchy node",
+					"request": {
+						"url": "http://localhost:3000/api/v1/hierarchy_nodes/1971fe7d-32c4-4a29-8a06-09ac10148035/items",
+						"method": "GET",
+						"header": [
+							{
+								"key": "Accept",
+								"value": "application/json",
+								"description": ""
+							},
+							{
+								"key": "Authorization",
+								"value": "Bearer {{Authorization-Header}}",
+								"description": ""
+							}
+						],
+						"body": {
+							"mode": "formdata",
+							"formdata": []
+						},
+						"description": ""
+					},
+					"response": []
+				},
+				{
+					"name": "Read",
+					"request": {
+						"url": "http://localhost:3000/api/v1/items/05dff505-cc5f-42b8-8d4d-5a5870dbd284",
+						"method": "GET",
+						"header": [
+							{
+								"key": "Accept",
+								"value": "application/json",
+								"description": ""
+							},
+							{
+								"key": "Authorization",
+								"value": "Bearer {{Authorization-Header}}",
+								"description": ""
+							}
+						],
+						"body": {
+							"mode": "formdata",
+							"formdata": []
+						},
+						"description": ""
+					},
+					"response": []
+				},
+				{
+					"name": "Create",
+					"request": {
+						"url": "http://localhost:3000/api/v1/items",
+						"method": "POST",
+						"header": [
+							{
+								"key": "Accept",
+								"value": "application/json",
+								"description": ""
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"description": ""
+							},
+							{
+								"key": "Authorization",
+								"value": "Bearer {{Authorization-Header}}",
+								"description": ""
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n  \"item\" :\n  {\n    \"upc\": 100837392,\n    \"name\": \"Large Donkey\",\n    \"uom\": \"EA\",\n    \"brand_id\": \"8a25e4b9-2d7e-4f19-a836-6c4a4de4ff3c\"\n  }\n\n}"
+						},
+						"description": ""
+					},
+					"response": []
+				},
+				{
+					"name": "Update",
+					"request": {
+						"url": "http://localhost:3000/api/v1/items/c175f39d-69b7-4b7e-9b14-61c7a9f88034",
+						"method": "PUT",
+						"header": [
+							{
+								"key": "Accept",
+								"value": "application/json",
+								"description": ""
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"description": ""
+							},
+							{
+								"key": "Authorization",
+								"value": "Bearer {{Authorization-Header}}",
+								"description": ""
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n  \"item\" :\n  {\n    \"upc\": 100837392,\n    \"name\": \"Large Donkey\",\n    \"uom\": \"LB\",\n    \"brand_id\": \"8a25e4b9-2d7e-4f19-a836-6c4a4de4ff3c\"\n  }\n\n}"
+						},
+						"description": ""
+					},
+					"response": []
+				},
+				{
+					"name": "Destroy",
+					"request": {
+						"url": "http://localhost:3000/api/v1/items/f7b7f361-6fe4-4a3f-b717-3c9124ba362c",
+						"method": "DELETE",
+						"header": [
+							{
+								"key": "Accept",
+								"value": "application/json",
+								"description": ""
+							},
+							{
+								"key": "Authorization",
+								"value": "Bearer {{Authorization-Header}}",
+								"description": ""
+							}
+						],
+						"body": {
+							"mode": "formdata",
+							"formdata": []
+						},
+						"description": ""
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Location",
+			"description": "",
+			"item": [
+				{
+					"name": "List",
+					"request": {
+						"url": "http://localhost:3000/api/v1/locations?state=FL&name[starts_with]=C&sort[property]=external_id&sort[order]=asc",
+						"method": "GET",
+						"header": [
+							{
+								"key": "Accept",
+								"value": "application/json",
+								"description": ""
+							},
+							{
+								"key": "Authorization",
+								"value": "{{Authorization-Header}}",
+								"description": ""
+							}
+						],
+						"body": {
+							"mode": "formdata",
+							"formdata": []
+						},
+						"description": ""
+					},
+					"response": []
+				},
+				{
+					"name": "Read",
+					"request": {
+						"url": "http://localhost:3000/api/v1/locations/6761ea05-ded0-46c5-a777-8c68b3e12487",
+						"method": "GET",
+						"header": [
+							{
+								"key": "Accept",
+								"value": "application/json",
+								"description": ""
+							},
+							{
+								"key": "Authorization",
+								"value": "Bearer {{Authorization-Header}}",
+								"description": ""
+							}
+						],
+						"body": {
+							"mode": "formdata",
+							"formdata": []
+						},
+						"description": ""
+					},
+					"response": []
+				},
+				{
+					"name": "Create",
+					"request": {
+						"url": "http://localhost:3000/api/v1/locations",
+						"method": "POST",
+						"header": [
+							{
+								"key": "Accept",
+								"value": "application/json",
+								"description": ""
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"description": ""
+							},
+							{
+								"key": "Authorization",
+								"value": "{{Authorization-Header}}",
+								"description": ""
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n  \"location\": {\n    \"external_id\": 83628219,\n    \"name\": \"Margaritaville\",\n    \"address1\": \"1400 Alligator Lane\",\n    \"address2\": \"Suite 200\",\n    \"city\": \"Margaritaville\",\n    \"state\": \"FL\",\n    \"postal_code\": 33486,\n    \"created_at\": \"2016-07-11T17:56:17Z\",\n    \"updated_at\": \"2016-07-11T17:56:17Z\"\n  }\n}\n"
+						},
+						"description": ""
+					},
+					"response": []
+				},
+				{
+					"name": "Update",
+					"request": {
+						"url": "http://localhost:3000/api/v1/locations/4b50fe87-d0aa-48a3-8876-65d681fc5b3a",
+						"method": "PUT",
+						"header": [
+							{
+								"key": "Accept",
+								"value": "application/json",
+								"description": ""
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"description": ""
+							},
+							{
+								"key": "Authorization",
+								"value": "Bearer {{Authorization-Header}}",
+								"description": ""
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n  \"location\": {\n    \"name\": \"Boca Raton\",\n    \"address1\": \"1400 Glades Road\",\n    \"address2\": \"Ste 110\",\n    \"city\": \"Boca Raton\",\n    \"state\": \"FL\",\n    \"postal_code\": 33486,\n    \"created_at\": \"2016-07-11T17:56:17Z\",\n    \"updated_at\": \"2016-07-11T17:56:17Z\"\n  }\n}\n"
+						},
+						"description": ""
+					},
+					"response": []
+				},
+				{
+					"name": "Destroy",
+					"request": {
+						"url": "http://localhost:3000/api/v1/locations/4b50fe87-d0aa-48a3-8876-65d681fc5b3a",
+						"method": "DELETE",
+						"header": [
+							{
+								"key": "Accept",
+								"value": "application/json",
+								"description": ""
+							},
+							{
+								"key": "Authorization",
+								"value": "Bearer {{Authorization-Header}}",
+								"description": ""
+							}
+						],
+						"body": {
+							"mode": "formdata",
+							"formdata": []
+						},
+						"description": ""
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Session",
+			"description": "",
+			"item": [
+				{
+					"name": "Create",
+					"request": {
+						"url": "http://localhost:3000/api/v1/sessions",
+						"method": "POST",
+						"header": [
+							{
+								"key": "Accept",
+								"value": "application/json",
+								"description": ""
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"description": ""
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n  \"user\" :\n  {\n    \"email\": \"user@example.com\",\n    \"password\": \"password\"\n  }\n\n}"
+						},
+						"description": ""
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "User",
+			"description": "",
+			"item": [
+				{
+					"name": "List",
+					"request": {
+						"url": "http://localhost:3000/api/v1/users",
+						"method": "GET",
+						"header": [
+							{
+								"key": "Accept",
+								"value": "application/json",
+								"description": ""
+							},
+							{
+								"key": "Authorization",
+								"value": "Bearer {{Authorization-Header}}",
+								"description": ""
+							}
+						],
+						"body": {
+							"mode": "formdata",
+							"formdata": []
+						},
+						"description": ""
+					},
+					"response": []
+				},
+				{
+					"name": "Read",
+					"request": {
+						"url": "http://localhost:3000/api/v1/users/488995a6-3989-4af5-ae4a-a0e3296c60a4",
+						"method": "GET",
+						"header": [
+							{
+								"key": "Accept",
+								"value": "application/json",
+								"description": ""
+							},
+							{
+								"key": "Authorization",
+								"value": "Bearer {{Authorization-Header}}",
+								"description": ""
+							}
+						],
+						"body": {
+							"mode": "formdata",
+							"formdata": []
+						},
+						"description": ""
+					},
+					"response": []
+				},
+				{
+					"name": "Create",
+					"request": {
+						"url": "http://localhost:3000/api/v1/users",
+						"method": "POST",
+						"header": [
+							{
+								"key": "Accept",
+								"value": "application/json",
+								"description": ""
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"description": ""
+							},
+							{
+								"key": "Authorization",
+								"value": "Bearer {{Authorization-Header}}",
+								"description": ""
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n  \"user\" :\n  {\n    \"name\": \"Large Donkey\",\n    \"email\": \"user@infor.com\"\n  }\n}"
+						},
+						"description": ""
+					},
+					"response": []
+				},
+				{
+					"name": "Update",
+					"request": {
+						"url": "http://localhost:3000/api/v1/users/488995a6-3989-4af5-ae4a-a0e3296c60a4",
+						"method": "PUT",
+						"header": [
+							{
+								"key": "Accept",
+								"value": "application/json",
+								"description": ""
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"description": ""
+							},
+							{
+								"key": "Authorization",
+								"value": "Bearer {{Authorization-Header}}",
+								"description": ""
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n  \"user\" :\n  {\n    \"name\": \"Larger Donkey\",\n    \"email\": \"user@infor.com\"\n  }\n}"
+						},
+						"description": ""
+					},
+					"response": []
+				},
+				{
+					"name": "Destroy",
+					"request": {
+						"url": "http://localhost:3000/api/v1/users/488995a6-3989-4af5-ae4a-a0e3296c60a4",
+						"method": "DELETE",
+						"header": [
+							{
+								"key": "Accept",
+								"value": "application/json",
+								"description": ""
+							},
+							{
+								"key": "Authorization",
+								"value": "Bearer {{Authorization-Header}}",
+								"description": ""
+							}
+						],
+						"body": {
+							"mode": "formdata",
+							"formdata": []
+						},
+						"description": ""
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}

@@ -47,14 +47,14 @@ class Api::V1::HierarchyNodesController < Api::V1::BaseController
   end
 
   def create_params
-    params.require(:node).permit(
-      :upc, :name, :uom
+    params.require(:hierarchy_node).permit(
+      :name, :external_id
     )
   end
 
   def update_params
-    params.require(:node).permit(
-      :name, :uom
+    params.require(:hierarchy_node).permit(
+      :name
     )
   end
 end

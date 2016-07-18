@@ -10,6 +10,7 @@ gem 'bcrypt', '~> 3.1.7'
 gem 'rack-cors'
 gem 'kaminari'
 gem 'pg'
+gem 'ancestry'
 
 group :development, :test do
   gem 'pry-rails'
